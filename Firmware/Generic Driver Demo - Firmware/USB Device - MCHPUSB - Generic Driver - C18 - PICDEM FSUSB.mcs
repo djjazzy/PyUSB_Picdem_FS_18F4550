@@ -1,0 +1,136 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\Objects\USB Device - Generic Driver Demo - C18 - PICDEM FSUSB\user.o
+Folder=Intermediary
+DeviceName=PIC18F4550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\MCC18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)|.\Objects\USB Device - Generic Driver Demo - C18 - PICDEM FSUSB||$(AINDIR)||$(INCDIR)|..\..\..\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - Firmware;..\..\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - Firmware;..\..\Microchip\Include;..\..\..\Include;..\..\Include;.||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|user.c|temperature.c|main.c|usb_descriptors.c|..\..\Microchip\USB\usb_device.c|..\..\Microchip\USB\Generic Device Driver\usb_function_generic.c|usart.c||<obj>||<lib>||<lkr>|rm18f4550 - HID Bootload.lkr||
+SuiteArgsString=
+ToolArgsString=
+TraceCmdString=
+DebugOptions=
+[File001]
+Location=C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\Objects\USB Device - Generic Driver Demo - C18 - PICDEM FSUSB\temperature.o
+Folder=Intermediary
+DeviceName=PIC18F4550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\MCC18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)|.\Objects\USB Device - Generic Driver Demo - C18 - PICDEM FSUSB||$(AINDIR)||$(INCDIR)|..\..\..\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - Firmware;..\..\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - Firmware;..\..\Microchip\Include;..\..\..\Include;..\..\Include;.||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|user.c|temperature.c|main.c|usb_descriptors.c|..\..\Microchip\USB\usb_device.c|..\..\Microchip\USB\Generic Device Driver\usb_function_generic.c|usart.c||<obj>||<lib>||<lkr>|rm18f4550 - HID Bootload.lkr||
+SuiteArgsString=
+ToolArgsString=
+TraceCmdString=
+DebugOptions=
+[File002]
+Location=C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\Objects\USB Device - Generic Driver Demo - C18 - PICDEM FSUSB\main.o
+Folder=Intermediary
+DeviceName=PIC18F4550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\MCC18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)|.\Objects\USB Device - Generic Driver Demo - C18 - PICDEM FSUSB||$(AINDIR)||$(INCDIR)|..\..\..\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - Firmware;..\..\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - Firmware;..\..\Microchip\Include;..\..\..\Include;..\..\Include;.||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|user.c|temperature.c|main.c|usb_descriptors.c|..\..\Microchip\USB\usb_device.c|..\..\Microchip\USB\Generic Device Driver\usb_function_generic.c|usart.c||<obj>||<lib>||<lkr>|rm18f4550 - HID Bootload.lkr||
+SuiteArgsString=
+ToolArgsString=
+TraceCmdString=
+DebugOptions=
+[File003]
+Location=C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\Objects\USB Device - Generic Driver Demo - C18 - PICDEM FSUSB\usb_descriptors.o
+Folder=Intermediary
+DeviceName=PIC18F4550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\MCC18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)|.\Objects\USB Device - Generic Driver Demo - C18 - PICDEM FSUSB||$(AINDIR)||$(INCDIR)|..\..\..\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - Firmware;..\..\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - Firmware;..\..\Microchip\Include;..\..\..\Include;..\..\Include;.||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|user.c|temperature.c|main.c|usb_descriptors.c|..\..\Microchip\USB\usb_device.c|..\..\Microchip\USB\Generic Device Driver\usb_function_generic.c|usart.c||<obj>||<lib>||<lkr>|rm18f4550 - HID Bootload.lkr||
+SuiteArgsString=
+ToolArgsString=
+TraceCmdString=
+DebugOptions=
+[File004]
+Location=C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\Objects\USB Device - Generic Driver Demo - C18 - PICDEM FSUSB\usb_device.o
+Folder=Intermediary
+DeviceName=PIC18F4550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\MCC18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)|.\Objects\USB Device - Generic Driver Demo - C18 - PICDEM FSUSB||$(AINDIR)||$(INCDIR)|..\..\..\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - Firmware;..\..\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - Firmware;..\..\Microchip\Include;..\..\..\Include;..\..\Include;.||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|user.c|temperature.c|main.c|usb_descriptors.c|..\..\Microchip\USB\usb_device.c|..\..\Microchip\USB\Generic Device Driver\usb_function_generic.c|usart.c||<obj>||<lib>||<lkr>|rm18f4550 - HID Bootload.lkr||
+SuiteArgsString=
+ToolArgsString=
+TraceCmdString=
+DebugOptions=
+[File005]
+Location=C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\Objects\USB Device - Generic Driver Demo - C18 - PICDEM FSUSB\usb_function_generic.o
+Folder=Intermediary
+DeviceName=PIC18F4550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\MCC18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)|.\Objects\USB Device - Generic Driver Demo - C18 - PICDEM FSUSB||$(AINDIR)||$(INCDIR)|..\..\..\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - Firmware;..\..\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - Firmware;..\..\Microchip\Include;..\..\..\Include;..\..\Include;.||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|user.c|temperature.c|main.c|usb_descriptors.c|..\..\Microchip\USB\usb_device.c|..\..\Microchip\USB\Generic Device Driver\usb_function_generic.c|usart.c||<obj>||<lib>||<lkr>|rm18f4550 - HID Bootload.lkr||
+SuiteArgsString=
+ToolArgsString=
+TraceCmdString=
+DebugOptions=
+[File006]
+Location=C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\Objects\USB Device - Generic Driver Demo - C18 - PICDEM FSUSB\usart.o
+Folder=Intermediary
+DeviceName=PIC18F4550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\MCC18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)|.\Objects\USB Device - Generic Driver Demo - C18 - PICDEM FSUSB||$(AINDIR)||$(INCDIR)|..\..\..\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - Firmware;..\..\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - Firmware;..\..\Microchip\Include;..\..\..\Include;..\..\Include;.||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|user.c|temperature.c|main.c|usb_descriptors.c|..\..\Microchip\USB\usb_device.c|..\..\Microchip\USB\Generic Device Driver\usb_function_generic.c|usart.c||<obj>||<lib>||<lkr>|rm18f4550 - HID Bootload.lkr||
+SuiteArgsString=
+ToolArgsString=
+TraceCmdString=
+DebugOptions=
+[File007]
+Location=C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\USB Device - MCHPUSB - Generic Driver - C18 - PICDEM FSUSB.cof
+Folder=Output
+DeviceName=PIC18F4550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={96C98149-AA1B-4CF9-B967-FAE79CAB663C}
+LanguageToolLocation=C:\MCC18\bin\mplink.exe
+PPAD=$(BINDIR)||$(TMPDIR)|.\Objects\USB Device - Generic Driver Demo - C18 - PICDEM FSUSB||$(AINDIR)||$(INCDIR)|..\..\..\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - Firmware;..\..\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - Firmware;..\..\Microchip\Include;..\..\..\Include;..\..\Include;.||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|user.c|temperature.c|main.c|usb_descriptors.c|..\..\Microchip\USB\usb_device.c|..\..\Microchip\USB\Generic Device Driver\usb_function_generic.c|usart.c||<obj>||<lib>||<lkr>|rm18f4550 - HID Bootload.lkr||
+SuiteArgsString=
+ToolArgsString=/m"$(BINDIR_)$(TARGETBASE).map" /w /o"$(TARGETBASE).cof"
+TraceCmdString=
+DebugOptions=
+[File008]
+Location=C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\USB Device - MCHPUSB - Generic Driver - C18 - PICDEM FSUSB.hex
+Folder=Output
+DeviceName=PIC18F4550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={96C98149-AA1B-4CF9-B967-FAE79CAB663C}
+LanguageToolLocation=C:\MCC18\bin\mplink.exe
+PPAD=$(BINDIR)||$(TMPDIR)|.\Objects\USB Device - Generic Driver Demo - C18 - PICDEM FSUSB||$(AINDIR)||$(INCDIR)|..\..\..\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - Firmware;..\..\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - Firmware;..\..\Microchip\Include;..\..\..\Include;..\..\Include;.||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|user.c|temperature.c|main.c|usb_descriptors.c|..\..\Microchip\USB\usb_device.c|..\..\Microchip\USB\Generic Device Driver\usb_function_generic.c|usart.c||<obj>||<lib>||<lkr>|rm18f4550 - HID Bootload.lkr||
+SuiteArgsString=
+ToolArgsString=/m"$(BINDIR_)$(TARGETBASE).map" /w /o"$(TARGETBASE).cof"
+TraceCmdString=
+DebugOptions=
+[File009]
+Location=C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\USB Device - MCHPUSB - Generic Driver - C18 - PICDEM FSUSB.map
+Folder=Output
+DeviceName=PIC18F4550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={96C98149-AA1B-4CF9-B967-FAE79CAB663C}
+LanguageToolLocation=C:\MCC18\bin\mplink.exe
+PPAD=$(BINDIR)||$(TMPDIR)|.\Objects\USB Device - Generic Driver Demo - C18 - PICDEM FSUSB||$(AINDIR)||$(INCDIR)|..\..\..\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - Firmware;..\..\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - Firmware;..\..\Microchip\Include;..\..\..\Include;..\..\Include;.||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|user.c|temperature.c|main.c|usb_descriptors.c|..\..\Microchip\USB\usb_device.c|..\..\Microchip\USB\Generic Device Driver\usb_function_generic.c|usart.c||<obj>||<lib>||<lkr>|rm18f4550 - HID Bootload.lkr||
+SuiteArgsString=
+ToolArgsString=/m"$(BINDIR_)$(TARGETBASE).map" /w /o"$(TARGETBASE).cof"
+TraceCmdString=
+DebugOptions=
+[TOOL_LOC_STAMPS]
+tool_loc{96C98149-AA1B-4CF9-B967-FAE79CAB663C}=C:\MCC18\bin\mplink.exe
+tool_loc{E56A1C86-9D32-4DF6-8C34-FE0388B1B644}=C:\MCC18\bin\mcc18.exe

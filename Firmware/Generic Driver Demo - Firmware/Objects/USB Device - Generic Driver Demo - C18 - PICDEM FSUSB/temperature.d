@@ -1,0 +1,1 @@
+ Objects/USB\ Device\ -\ Generic\ Driver\ Demo\ -\ C18\ -\ PICDEM\ FSUSB/temperature.d  Objects/USB\ Device\ -\ Generic\ Driver\ Demo\ -\ C18\ -\ PICDEM\ FSUSB/temperature.p1:  temperature.c HardwareProfile.h temperature.h ../../Microchip/Include/GenericTypeDefs.h ../../Microchip/Include/Compiler.h

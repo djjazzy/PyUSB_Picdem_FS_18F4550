@@ -1,0 +1,1661 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+ADDRESS_STATE::0x10	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	347;"	d	line:347
+ADR	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	206;"	m	line:206	struct:__BDT::<anonymous>
+ADRH	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	200;"	m	line:200	struct:__BDT::<anonymous>
+ADRL	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	199;"	m	line:199	struct:__BDT::<anonymous>
+ADR_PENDING_STATE::0x08	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	346;"	d	line:346
+ATTACHED_STATE::0x01	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	343;"	d	line:343
+AcquireTemperature	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\temperature.c	117;"	f	line:117	signature:(void)
+AcquireTemperature	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\temperature.h	43;"	p	line:43	signature:(void)
+BC8	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	164;"	m	line:164	struct:_BD_STAT::<anonymous>
+BC8	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	176;"	m	line:176	struct:_BD_STAT::<anonymous>
+BC9	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	165;"	m	line:165	struct:_BD_STAT::<anonymous>
+BC9	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	177;"	m	line:177	struct:_BD_STAT::<anonymous>
+BD::(ep,dir,pp)((8*ep)+(4*dir))	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	989;"	d	line:989
+BD::(ep,dir,pp)(4*(4*ep+2*dir+((ep	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1206;"	d	line:1206
+BD::(ep,dir,pp)(4*(4*ep+2*dir+pp))	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1134;"	d	line:1134
+BD::(ep,dir,pp)(4*(ep+dir+(((ep==0	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1061;"	d	line:1061
+BDT	C:\Microchip Solutions\Microchip\Usb\usb_device.c	85;"	v	line:85
+BDT	C:\Microchip Solutions\Microchip\Usb\usb_device.c	87;"	v	line:87
+BDT	C:\Microchip Solutions\Microchip\Usb\usb_device.c	89;"	v	line:89
+BDT	C:\Microchip Solutions\Microchip\Usb\usb_device.c	91;"	v	line:91
+BDT_ENTRY	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	210;"	t	line:210
+BD_STAT	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	190;"	t	line:190
+BOOL	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	49;"	t	line:49
+BSTALL	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	166;"	m	line:166	struct:_BD_STAT::<anonymous>
+BYTE	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	68;"	t	line:68
+BYTE_BITS	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	122;"	t	line:122
+BYTE_VAL	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	122;"	t	line:122
+BlinkUSBStatus	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.c	424;"	f	line:424	signature:(void)
+BlinkUSBStatus	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.c	87;"	p	line:87	file:	signature:(void)
+CARD_DETECT::PORTBbits.RB4	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	166;"	d	line:166
+CARD_DETECT::PORTBbits.RB4	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	263;"	d	line:263
+CARD_DETECT::PORTBbits.RB4	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	397;"	d	line:397
+CHAR	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	72;"	t	line:72
+CHAR8	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	80;"	t	line:80
+CLASS::0x01	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	504;"	d	line:504
+CLOCK_FREQ::32000000	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	56;"	d	line:56
+CLOCK_FREQ::48000000	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	64;"	d	line:64
+CLOCK_FREQ::48000000	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	68;"	d	line:68
+CLOCK_FREQ::48000000	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	72;"	d	line:72
+CLR_FEATURE::1	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	326;"	d	line:326
+CMD	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.h	82;"	m	line:82	struct:DATA_PACKET::<anonymous>
+CNT	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	198;"	m	line:198	struct:__BDT::<anonymous>
+CONFIGURED_STATE::0x20	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	348;"	d	line:348
+CTRL_TRF_PARAMS::void	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	282;"	d	line:282
+CTRL_TRF_RETURN::void	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	281;"	d	line:281
+CTRL_TRF_RX::2	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	487;"	d	line:487
+CTRL_TRF_SETUP	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	247;"	t	line:247
+CTRL_TRF_TX::1	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	486;"	d	line:486
+CtrlTrfData	C:\Microchip Solutions\Microchip\Usb\usb_device.c	104;"	v	line:104
+DATA_PACKET	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.h	101;"	t	line:101
+DATA_PACKET	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.h	76;"	u	line:76
+DEFAULT_STATE::0x04	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	345;"	d	line:345
+DEMO_BOARD::PIC18F14K50_DEMO_BOARD	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	70;"	d	line:70
+DEMO_BOARD::PIC18F87J50_PIM	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	66;"	d	line:66
+DEMO_BOARD::PIC24FJ256GB110_PIM	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	53;"	d	line:53
+DEMO_BOARD::PICDEM_FS_USB	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	62;"	d	line:62
+DESC_CONFIG_BYTE::(a)(a)	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	630;"	d	line:630
+DESC_CONFIG_DWORD::(a)(a&0xFF),((a>>8)&0xFF),((a>	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	632;"	d	line:632
+DESC_CONFIG_WORD::(a)(a&0xFF),((a>>8)&0xFF)	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	631;"	d	line:631
+DETACHED_STATE::0x00	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	342;"	d	line:342
+DEVICE_REMOTE_WAKEUP::0x01	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	338;"	d	line:338
+DEV_TO_HOST::1	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	501;"	d	line:501
+DTS	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	170;"	m	line:170	struct:_BD_STAT::<anonymous>
+DTSEN	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	167;"	m	line:167	struct:_BD_STAT::<anonymous>
+DWORD	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	70;"	t	line:70
+DWORD_VAL	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	211;"	t	line:211
+DataDir	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	168;"	m	line:168	struct:_CTRL_TRF_SETUP::<anonymous>
+ENDPOINT_HALT::0x00	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	339;"	d	line:339
+EP0_IN_EVEN::1	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1142;"	d	line:1142
+EP0_IN_EVEN::1	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	924;"	d	line:924
+EP0_IN_EVEN::2	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1069;"	d	line:1069
+EP0_IN_EVEN::2	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	997;"	d	line:997
+EP0_IN_ODD::1	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1143;"	d	line:1143
+EP0_IN_ODD::1	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	925;"	d	line:925
+EP0_IN_ODD::2	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	998;"	d	line:998
+EP0_IN_ODD::3	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1070;"	d	line:1070
+EP0_OUT_EVEN::0	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1067;"	d	line:1067
+EP0_OUT_EVEN::0	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1140;"	d	line:1140
+EP0_OUT_EVEN::0	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	922;"	d	line:922
+EP0_OUT_EVEN::0	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	995;"	d	line:995
+EP0_OUT_ODD::0	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1141;"	d	line:1141
+EP0_OUT_ODD::0	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	923;"	d	line:923
+EP0_OUT_ODD::1	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1068;"	d	line:1068
+EP0_OUT_ODD::1	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	996;"	d	line:996
+EP10_IN_EVEN::21	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	964;"	d	line:964
+EP10_IN_EVEN::22	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1037;"	d	line:1037
+EP10_IN_EVEN::40	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1182;"	d	line:1182
+EP10_IN_EVEN::42	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1109;"	d	line:1109
+EP10_IN_ODD::21	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	965;"	d	line:965
+EP10_IN_ODD::22	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1038;"	d	line:1038
+EP10_IN_ODD::41	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1183;"	d	line:1183
+EP10_IN_ODD::43	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1110;"	d	line:1110
+EP10_OUT_EVEN::20	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	962;"	d	line:962
+EP10_OUT_EVEN::21	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1035;"	d	line:1035
+EP10_OUT_EVEN::38	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1180;"	d	line:1180
+EP10_OUT_EVEN::40	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1107;"	d	line:1107
+EP10_OUT_ODD::20	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	963;"	d	line:963
+EP10_OUT_ODD::21	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1036;"	d	line:1036
+EP10_OUT_ODD::39	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1181;"	d	line:1181
+EP10_OUT_ODD::41	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1108;"	d	line:1108
+EP11_IN_EVEN::23	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	968;"	d	line:968
+EP11_IN_EVEN::24	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1041;"	d	line:1041
+EP11_IN_EVEN::44	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1186;"	d	line:1186
+EP11_IN_EVEN::46	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1113;"	d	line:1113
+EP11_IN_ODD::23	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	969;"	d	line:969
+EP11_IN_ODD::24	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1042;"	d	line:1042
+EP11_IN_ODD::45	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1187;"	d	line:1187
+EP11_IN_ODD::47	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1114;"	d	line:1114
+EP11_OUT_EVEN::22	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	966;"	d	line:966
+EP11_OUT_EVEN::23	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1039;"	d	line:1039
+EP11_OUT_EVEN::42	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1184;"	d	line:1184
+EP11_OUT_EVEN::44	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1111;"	d	line:1111
+EP11_OUT_ODD::22	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	967;"	d	line:967
+EP11_OUT_ODD::23	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1040;"	d	line:1040
+EP11_OUT_ODD::43	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1185;"	d	line:1185
+EP11_OUT_ODD::45	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1112;"	d	line:1112
+EP12_IN_EVEN::25	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	972;"	d	line:972
+EP12_IN_EVEN::26	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1045;"	d	line:1045
+EP12_IN_EVEN::48	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1190;"	d	line:1190
+EP12_IN_EVEN::50	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1117;"	d	line:1117
+EP12_IN_ODD::25	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	973;"	d	line:973
+EP12_IN_ODD::26	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1046;"	d	line:1046
+EP12_IN_ODD::49	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1191;"	d	line:1191
+EP12_IN_ODD::51	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1118;"	d	line:1118
+EP12_OUT_EVEN::24	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	970;"	d	line:970
+EP12_OUT_EVEN::25	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1043;"	d	line:1043
+EP12_OUT_EVEN::46	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1188;"	d	line:1188
+EP12_OUT_EVEN::48	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1115;"	d	line:1115
+EP12_OUT_ODD::24	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	971;"	d	line:971
+EP12_OUT_ODD::25	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1044;"	d	line:1044
+EP12_OUT_ODD::47	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1189;"	d	line:1189
+EP12_OUT_ODD::49	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1116;"	d	line:1116
+EP13_IN_EVEN::27	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	976;"	d	line:976
+EP13_IN_EVEN::28	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1049;"	d	line:1049
+EP13_IN_EVEN::52	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1194;"	d	line:1194
+EP13_IN_EVEN::54	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1121;"	d	line:1121
+EP13_IN_ODD::27	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	977;"	d	line:977
+EP13_IN_ODD::28	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1050;"	d	line:1050
+EP13_IN_ODD::53	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1195;"	d	line:1195
+EP13_IN_ODD::55	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1122;"	d	line:1122
+EP13_OUT_EVEN::26	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	974;"	d	line:974
+EP13_OUT_EVEN::27	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1047;"	d	line:1047
+EP13_OUT_EVEN::50	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1192;"	d	line:1192
+EP13_OUT_EVEN::52	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1119;"	d	line:1119
+EP13_OUT_ODD::26	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	975;"	d	line:975
+EP13_OUT_ODD::27	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1048;"	d	line:1048
+EP13_OUT_ODD::51	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1193;"	d	line:1193
+EP13_OUT_ODD::53	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1120;"	d	line:1120
+EP14_IN_EVEN::29	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	980;"	d	line:980
+EP14_IN_EVEN::30	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1053;"	d	line:1053
+EP14_IN_EVEN::56	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1198;"	d	line:1198
+EP14_IN_EVEN::58	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1125;"	d	line:1125
+EP14_IN_ODD::29	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	981;"	d	line:981
+EP14_IN_ODD::30	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1054;"	d	line:1054
+EP14_IN_ODD::57	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1199;"	d	line:1199
+EP14_IN_ODD::59	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1126;"	d	line:1126
+EP14_OUT_EVEN::28	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	978;"	d	line:978
+EP14_OUT_EVEN::29	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1051;"	d	line:1051
+EP14_OUT_EVEN::54	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1196;"	d	line:1196
+EP14_OUT_EVEN::56	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1123;"	d	line:1123
+EP14_OUT_ODD::28	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	979;"	d	line:979
+EP14_OUT_ODD::29	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1052;"	d	line:1052
+EP14_OUT_ODD::55	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1197;"	d	line:1197
+EP14_OUT_ODD::57	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1124;"	d	line:1124
+EP15_IN_EVEN::31	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	984;"	d	line:984
+EP15_IN_EVEN::32	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1057;"	d	line:1057
+EP15_IN_EVEN::60	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1202;"	d	line:1202
+EP15_IN_EVEN::62	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1129;"	d	line:1129
+EP15_IN_ODD::31	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	985;"	d	line:985
+EP15_IN_ODD::32	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1058;"	d	line:1058
+EP15_IN_ODD::61	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1203;"	d	line:1203
+EP15_IN_ODD::63	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1130;"	d	line:1130
+EP15_OUT_EVEN::30	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	982;"	d	line:982
+EP15_OUT_EVEN::31	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1055;"	d	line:1055
+EP15_OUT_EVEN::58	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1200;"	d	line:1200
+EP15_OUT_EVEN::60	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1127;"	d	line:1127
+EP15_OUT_ODD::30	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	983;"	d	line:983
+EP15_OUT_ODD::31	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1056;"	d	line:1056
+EP15_OUT_ODD::59	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1201;"	d	line:1201
+EP15_OUT_ODD::61	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1128;"	d	line:1128
+EP1_IN_EVEN::3	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	928;"	d	line:928
+EP1_IN_EVEN::4	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1001;"	d	line:1001
+EP1_IN_EVEN::4	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1146;"	d	line:1146
+EP1_IN_EVEN::6	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1073;"	d	line:1073
+EP1_IN_ODD::3	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	929;"	d	line:929
+EP1_IN_ODD::4	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1002;"	d	line:1002
+EP1_IN_ODD::5	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1147;"	d	line:1147
+EP1_IN_ODD::7	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1074;"	d	line:1074
+EP1_OUT_EVEN::2	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1144;"	d	line:1144
+EP1_OUT_EVEN::2	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	926;"	d	line:926
+EP1_OUT_EVEN::3	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	999;"	d	line:999
+EP1_OUT_EVEN::4	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1071;"	d	line:1071
+EP1_OUT_ODD::2	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	927;"	d	line:927
+EP1_OUT_ODD::3	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1000;"	d	line:1000
+EP1_OUT_ODD::3	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1145;"	d	line:1145
+EP1_OUT_ODD::5	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1072;"	d	line:1072
+EP2_IN_EVEN::10	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1077;"	d	line:1077
+EP2_IN_EVEN::5	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	932;"	d	line:932
+EP2_IN_EVEN::6	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1005;"	d	line:1005
+EP2_IN_EVEN::8	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1150;"	d	line:1150
+EP2_IN_ODD::11	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1078;"	d	line:1078
+EP2_IN_ODD::5	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	933;"	d	line:933
+EP2_IN_ODD::6	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1006;"	d	line:1006
+EP2_IN_ODD::9	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1151;"	d	line:1151
+EP2_OUT_EVEN::4	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	930;"	d	line:930
+EP2_OUT_EVEN::5	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1003;"	d	line:1003
+EP2_OUT_EVEN::6	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1148;"	d	line:1148
+EP2_OUT_EVEN::8	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1075;"	d	line:1075
+EP2_OUT_ODD::4	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	931;"	d	line:931
+EP2_OUT_ODD::5	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1004;"	d	line:1004
+EP2_OUT_ODD::7	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1149;"	d	line:1149
+EP2_OUT_ODD::9	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1076;"	d	line:1076
+EP3_IN_EVEN::12	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1154;"	d	line:1154
+EP3_IN_EVEN::14	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1081;"	d	line:1081
+EP3_IN_EVEN::7	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	936;"	d	line:936
+EP3_IN_EVEN::8	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1009;"	d	line:1009
+EP3_IN_ODD::13	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1155;"	d	line:1155
+EP3_IN_ODD::15	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1082;"	d	line:1082
+EP3_IN_ODD::7	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	937;"	d	line:937
+EP3_IN_ODD::8	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1010;"	d	line:1010
+EP3_OUT_EVEN::10	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1152;"	d	line:1152
+EP3_OUT_EVEN::12	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1079;"	d	line:1079
+EP3_OUT_EVEN::6	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	934;"	d	line:934
+EP3_OUT_EVEN::7	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1007;"	d	line:1007
+EP3_OUT_ODD::11	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1153;"	d	line:1153
+EP3_OUT_ODD::13	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1080;"	d	line:1080
+EP3_OUT_ODD::6	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	935;"	d	line:935
+EP3_OUT_ODD::7	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1008;"	d	line:1008
+EP4_IN_EVEN::10	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1013;"	d	line:1013
+EP4_IN_EVEN::16	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1158;"	d	line:1158
+EP4_IN_EVEN::18	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1085;"	d	line:1085
+EP4_IN_EVEN::9	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	940;"	d	line:940
+EP4_IN_ODD::10	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1014;"	d	line:1014
+EP4_IN_ODD::17	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1159;"	d	line:1159
+EP4_IN_ODD::19	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1086;"	d	line:1086
+EP4_IN_ODD::9	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	941;"	d	line:941
+EP4_OUT_EVEN::14	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1156;"	d	line:1156
+EP4_OUT_EVEN::16	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1083;"	d	line:1083
+EP4_OUT_EVEN::8	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	938;"	d	line:938
+EP4_OUT_EVEN::9	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1011;"	d	line:1011
+EP4_OUT_ODD::15	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1157;"	d	line:1157
+EP4_OUT_ODD::17	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1084;"	d	line:1084
+EP4_OUT_ODD::8	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	939;"	d	line:939
+EP4_OUT_ODD::9	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1012;"	d	line:1012
+EP5_IN_EVEN::11	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	944;"	d	line:944
+EP5_IN_EVEN::12	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1017;"	d	line:1017
+EP5_IN_EVEN::20	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1162;"	d	line:1162
+EP5_IN_EVEN::22	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1089;"	d	line:1089
+EP5_IN_ODD::11	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	945;"	d	line:945
+EP5_IN_ODD::12	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1018;"	d	line:1018
+EP5_IN_ODD::21	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1163;"	d	line:1163
+EP5_IN_ODD::23	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1090;"	d	line:1090
+EP5_OUT_EVEN::10	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	942;"	d	line:942
+EP5_OUT_EVEN::11	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1015;"	d	line:1015
+EP5_OUT_EVEN::18	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1160;"	d	line:1160
+EP5_OUT_EVEN::20	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1087;"	d	line:1087
+EP5_OUT_ODD::10	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	943;"	d	line:943
+EP5_OUT_ODD::11	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1016;"	d	line:1016
+EP5_OUT_ODD::19	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1161;"	d	line:1161
+EP5_OUT_ODD::21	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1088;"	d	line:1088
+EP6_IN_EVEN::13	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	948;"	d	line:948
+EP6_IN_EVEN::14	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1021;"	d	line:1021
+EP6_IN_EVEN::24	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1166;"	d	line:1166
+EP6_IN_EVEN::26	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1093;"	d	line:1093
+EP6_IN_ODD::13	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	949;"	d	line:949
+EP6_IN_ODD::14	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1022;"	d	line:1022
+EP6_IN_ODD::25	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1167;"	d	line:1167
+EP6_IN_ODD::27	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1094;"	d	line:1094
+EP6_OUT_EVEN::12	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	946;"	d	line:946
+EP6_OUT_EVEN::13	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1019;"	d	line:1019
+EP6_OUT_EVEN::22	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1164;"	d	line:1164
+EP6_OUT_EVEN::24	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1091;"	d	line:1091
+EP6_OUT_ODD::12	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	947;"	d	line:947
+EP6_OUT_ODD::13	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1020;"	d	line:1020
+EP6_OUT_ODD::23	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1165;"	d	line:1165
+EP6_OUT_ODD::25	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1092;"	d	line:1092
+EP7_IN_EVEN::15	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	952;"	d	line:952
+EP7_IN_EVEN::16	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1025;"	d	line:1025
+EP7_IN_EVEN::28	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1170;"	d	line:1170
+EP7_IN_EVEN::30	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1097;"	d	line:1097
+EP7_IN_ODD::15	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	953;"	d	line:953
+EP7_IN_ODD::16	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1026;"	d	line:1026
+EP7_IN_ODD::29	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1171;"	d	line:1171
+EP7_IN_ODD::31	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1098;"	d	line:1098
+EP7_OUT_EVEN::14	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	950;"	d	line:950
+EP7_OUT_EVEN::15	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1023;"	d	line:1023
+EP7_OUT_EVEN::26	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1168;"	d	line:1168
+EP7_OUT_EVEN::28	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1095;"	d	line:1095
+EP7_OUT_ODD::14	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	951;"	d	line:951
+EP7_OUT_ODD::15	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1024;"	d	line:1024
+EP7_OUT_ODD::27	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1169;"	d	line:1169
+EP7_OUT_ODD::29	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1096;"	d	line:1096
+EP8_IN_EVEN::17	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	956;"	d	line:956
+EP8_IN_EVEN::18	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1029;"	d	line:1029
+EP8_IN_EVEN::32	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1174;"	d	line:1174
+EP8_IN_EVEN::34	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1101;"	d	line:1101
+EP8_IN_ODD::17	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	957;"	d	line:957
+EP8_IN_ODD::18	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1030;"	d	line:1030
+EP8_IN_ODD::33	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1175;"	d	line:1175
+EP8_IN_ODD::35	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1102;"	d	line:1102
+EP8_OUT_EVEN::16	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	954;"	d	line:954
+EP8_OUT_EVEN::17	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1027;"	d	line:1027
+EP8_OUT_EVEN::30	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1172;"	d	line:1172
+EP8_OUT_EVEN::32	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1099;"	d	line:1099
+EP8_OUT_ODD::16	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	955;"	d	line:955
+EP8_OUT_ODD::17	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1028;"	d	line:1028
+EP8_OUT_ODD::31	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1173;"	d	line:1173
+EP8_OUT_ODD::33	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1100;"	d	line:1100
+EP9_IN_EVEN::19	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	960;"	d	line:960
+EP9_IN_EVEN::20	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1033;"	d	line:1033
+EP9_IN_EVEN::36	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1178;"	d	line:1178
+EP9_IN_EVEN::38	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1105;"	d	line:1105
+EP9_IN_ODD::19	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	961;"	d	line:961
+EP9_IN_ODD::20	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1034;"	d	line:1034
+EP9_IN_ODD::37	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1179;"	d	line:1179
+EP9_IN_ODD::39	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1106;"	d	line:1106
+EP9_OUT_EVEN::18	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	958;"	d	line:958
+EP9_OUT_EVEN::19	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1031;"	d	line:1031
+EP9_OUT_EVEN::34	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1176;"	d	line:1176
+EP9_OUT_EVEN::36	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1103;"	d	line:1103
+EP9_OUT_ODD::18	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	959;"	d	line:959
+EP9_OUT_ODD::19	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1032;"	d	line:1032
+EP9_OUT_ODD::35	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1177;"	d	line:1177
+EP9_OUT_ODD::37	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1104;"	d	line:1104
+EP::(ep,dir,pp)(2*ep+dir)	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	987;"	d	line:987
+EP::(ep,dir,pp)(2*ep+dir+(((ep==0)	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1060;"	d	line:1060
+EP::(ep,dir,pp)(4*ep+2*dir+((ep==0	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1205;"	d	line:1205
+EP::(ep,dir,pp)(4*ep+2*dir+pp)	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1132;"	d	line:1132
+EPDir	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	239;"	m	line:239	struct:_CTRL_TRF_SETUP::<anonymous>
+EPNum	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	237;"	m	line:237	struct:_CTRL_TRF_SETUP::<anonymous>
+EP_ATTR_ADAPT::(2<<2)	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	176;"	d	line:176
+EP_ATTR_ASYNC::(1<<2)	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	175;"	d	line:175
+EP_ATTR_BULK::(2<<0)	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	170;"	d	line:170
+EP_ATTR_CONTROL::(0<<0)	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	168;"	d	line:168
+EP_ATTR_DATA::(0<<4)	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	180;"	d	line:180
+EP_ATTR_FEEDBACK::(1<<4)	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	181;"	d	line:181
+EP_ATTR_IMP_FB::(2<<4)	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	182;"	d	line:182
+EP_ATTR_INTR::(3<<0)	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	171;"	d	line:171
+EP_ATTR_ISOCH::(1<<0)	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	169;"	d	line:169
+EP_ATTR_NO_SYNC::(0<<2)	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	174;"	d	line:174
+EP_ATTR_SYNC::(3<<2)	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	177;"	d	line:177
+EP_CTRL::0x06	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	383;"	d	line:383
+EP_CTRL::0x0C	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	403;"	d	line:403
+EP_DIR_IN::0x80	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	159;"	d	line:159
+EP_DIR_OUT::0x00	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	160;"	d	line:160
+EP_IN::0x0A	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	385;"	d	line:385
+EP_IN::0x14	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	405;"	d	line:405
+EP_LG_PKT_BULK_FS::32	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	189;"	d	line:189
+EP_MAX_PKT_BULK_FS::64	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	188;"	d	line:188
+EP_MAX_PKT_INTR_FS::64	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	186;"	d	line:186
+EP_MAX_PKT_INTR_LS::8	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	185;"	d	line:185
+EP_MAX_PKT_ISOCH_FS::1023	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	187;"	d	line:187
+EP_MED_PKT_BULK_FS::16	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	190;"	d	line:190
+EP_OUT::0x0C	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	384;"	d	line:384
+EP_OUT::0x18	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	404;"	d	line:404
+EP_OUT_IN::0x0E	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	386;"	d	line:386
+EP_OUT_IN::0x1C	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	406;"	d	line:406
+EP_SM_PKT_BULK_FS::8	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	191;"	d	line:191
+EVENT_ATTACH	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	242;"	e	line:242
+EVENT_BUS_ERROR	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	321;"	e	line:321
+EVENT_CANNOT_ENUMERATE	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	292;"	e	line:292
+EVENT_CLIENT_INIT_ERROR	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	296;"	e	line:296
+EVENT_DETACH	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	246;"	e	line:246
+EVENT_GENERIC_BASE	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	308;"	e	line:308
+EVENT_HID_BASE	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	312;"	e	line:312
+EVENT_HUB_ATTACH	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	249;"	e	line:249
+EVENT_MSD_BASE	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	310;"	e	line:310
+EVENT_NONE	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	218;"	e	line:218
+EVENT_OUT_OF_MEMORY	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	302;"	e	line:302
+EVENT_PRINTER_BASE	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	314;"	e	line:314
+EVENT_RESET	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	237;"	e	line:237
+EVENT_RESUME	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	229;"	e	line:229
+EVENT_SETUP	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	256;"	e	line:256
+EVENT_SOF	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	226;"	e	line:226
+EVENT_STALL	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	252;"	e	line:252
+EVENT_SUSPEND	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	233;"	e	line:233
+EVENT_TRANSFER	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	222;"	e	line:222
+EVENT_UNSPECIFIED_ERROR	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	305;"	e	line:305
+EVENT_UNSUPPORTED_DEVICE	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	288;"	e	line:288
+EVENT_USER_BASE	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	316;"	e	line:316
+EVENT_VBUS_OVERCURRENT	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	264;"	e	line:264
+EVENT_VBUS_POWER_AVAILABLE	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	284;"	e	line:284
+EVENT_VBUS_RELEASE_POWER	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	275;"	e	line:275
+EVENT_VBUS_REQUEST_POWER	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	270;"	e	line:270
+EVENT_VBUS_SES_REQUEST	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	259;"	e	line:259
+EXPLORER_16	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	54;"	d	line:54
+FALSE	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	49;"	e	line:49	enum:_BOOL
+FAR::far	C:\Microchip Solutions\Microchip\Include\Compiler.h	90;"	d	line:90
+GET_CFG::8	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	331;"	d	line:331
+GET_DSC::6	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	329;"	d	line:329
+GET_INTF::10	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	333;"	d	line:333
+GET_STATUS::0	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	325;"	d	line:325
+HARDWARE_PROFILE_H	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	46;"	d	line:46
+HB	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	131;"	m	line:131	struct:_WORD_VAL::<anonymous>
+HB	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	167;"	m	line:167	struct:_DWORD_VAL::<anonymous>
+HD	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	230;"	m	line:230	struct:_QWORD_VAL::<anonymous>
+HOST_TO_DEV::0	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	500;"	d	line:500
+HSHK_EN::0x01	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	407;"	d	line:407
+HW	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	162;"	m	line:162	struct:_DWORD_VAL::<anonymous>
+HW	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	235;"	m	line:235	struct:_QWORD_VAL::<anonymous>
+High_ISR	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\main.c	238;"	f	line:238	signature:(void)
+I2CStateVariable	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\temperature.c	46;"	v	line:46
+ID	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.h	88;"	m	line:88	struct:DATA_PACKET::<anonymous>
+ID_BOARD	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.h	65;"	e	line:65
+INCDIS	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	168;"	m	line:168	struct:_BD_STAT::<anonymous>
+INPUT_PIN::1	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	84;"	d	line:84
+INPacket	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.c	66;"	v	line:66
+INT	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	87;"	t	line:87
+INT16	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	89;"	t	line:89
+INT32	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	90;"	t	line:90
+INT64	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	91;"	t	line:91
+INT8	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	88;"	t	line:88
+IN_PIPE	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	279;"	t	line:279
+IN_TOKEN::0x09	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	497;"	d	line:497
+IN_TO_HOST::1	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	138;"	d	line:138
+InitTempSensor	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\temperature.c	73;"	f	line:73	signature:(void)
+InitTempSensor	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\temperature.h	42;"	p	line:42	signature:(void)
+InitializeSystem	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\main.c	165;"	p	line:165	file:	signature:(void)
+InitializeSystem	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\main.c	351;"	f	line:351	file:	signature:(void)
+KEN	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	169;"	m	line:169	struct:_BD_STAT::<anonymous>
+LB	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	130;"	m	line:130	struct:_WORD_VAL::<anonymous>
+LB	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	166;"	m	line:166	struct:_DWORD_VAL::<anonymous>
+LD	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	229;"	m	line:229	struct:_QWORD_VAL::<anonymous>
+LONG	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	74;"	t	line:74
+LONGLONG	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	75;"	t	line:75
+LOWER_LSB::(a)((a).v[0])	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	216;"	d	line:216
+LOWER_MSB::(a)((a).v[1])	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	217;"	d	line:217
+LSB::(a)((a).v[0])	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	213;"	d	line:213
+LW	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	161;"	m	line:161	struct:_DWORD_VAL::<anonymous>
+LW	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	234;"	m	line:234	struct:_QWORD_VAL::<anonymous>
+Low_ISR	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\main.c	243;"	f	line:243	signature:(void)
+MAJOR_VERSION::0x01	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.h	47;"	d	line:47
+MB	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	169;"	m	line:169	struct:_DWORD_VAL::<anonymous>
+MINOR_VERSION::0x00	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.h	46;"	d	line:46
+MSB::(a)((a).v[1])	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	214;"	d	line:214
+MW	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	237;"	m	line:237	struct:_QWORD_VAL::<anonymous>
+NULL::0	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	52;"	d	line:52
+OTG_FEATURE_A_ALT_HNP_SUPPORT::5	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	370;"	d	line:370
+OTG_FEATURE_A_HNP_SUPPORT::4	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	369;"	d	line:369
+OTG_FEATURE_B_HNP_ENABLE::3	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	368;"	d	line:368
+OTG_HNP_SUPPORT::0x02	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	328;"	d	line:328
+OTG_SRP_SUPPORT::0x01	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	329;"	d	line:329
+OUTPUT_PIN::0	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	85;"	d	line:85
+OUTPacket	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.c	67;"	v	line:67
+OUT_FROM_HOST::0	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	137;"	d	line:137
+OUT_PIPE	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	304;"	t	line:304
+OUT_TOKEN::0x01	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	496;"	d	line:496
+PIC18F14K50_DEMO_BOARD	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	71;"	d	line:71
+PIC18F87J50_PIM	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	67;"	d	line:67
+PIC24FJ256GB110_PIM	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	55;"	d	line:55
+PICDEM_FS_DEMO_H	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.h	35;"	d	line:35
+PICDEM_FS_USB	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	63;"	d	line:63
+PID	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	187;"	m	line:187	struct:_BD_STAT::<anonymous>
+PID0	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	178;"	m	line:178	struct:_BD_STAT::<anonymous>
+PID1	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	179;"	m	line:179	struct:_BD_STAT::<anonymous>
+PID2	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	180;"	m	line:180	struct:_BD_STAT::<anonymous>
+PID3	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	181;"	m	line:181	struct:_BD_STAT::<anonymous>
+PID_ACK::0x2	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	299;"	d	line:299
+PID_DATA0::0x3	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	300;"	d	line:300
+PID_DATA1::0xB	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	308;"	d	line:308
+PID_DATA2::0x7	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	304;"	d	line:304
+PID_ERR::0xC	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	310;"	d	line:310
+PID_IN::0x9	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	306;"	d	line:306
+PID_MASK_DATA::0x03	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	315;"	d	line:315
+PID_MASK_DATA_SHIFTED::(PID_MASK_DATA<<2)	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	316;"	d	line:316
+PID_MDATA::0xF	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	313;"	d	line:313
+PID_NAK::0xA	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	307;"	d	line:307
+PID_NYET::0x6	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	303;"	d	line:303
+PID_OUT::0x1	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	298;"	d	line:298
+PID_PING::0x4	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	301;"	d	line:301
+PID_PRE::0xC	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	309;"	d	line:309
+PID_SETUP::0xD	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	311;"	d	line:311
+PID_SOF::0x5	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	302;"	d	line:302
+PID_SPLIT::0x8	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	305;"	d	line:305
+PID_STALL::0xE	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	312;"	d	line:312
+POINTER	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	255;"	t	line:255
+POWERED_STATE::0x02	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	344;"	d	line:344
+PRIVATE::static	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	66;"	d	line:66
+PROGRAMMABLE_WITH_USB_HID_BOOTLOADER::	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	182;"	d	line:182
+PROGRAMMABLE_WITH_USB_HID_BOOTLOADER::	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	96;"	d	line:96
+PROGRAMMABLE_WITH_USB_MCHPUSB_BOOTLOADER::	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	277;"	d	line:277
+PROTECTED	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	65;"	d	line:65
+PSETUP_PKT	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	287;"	t	line:287
+PTR_BASE::WORD	C:\Microchip Solutions\Microchip\Include\Compiler.h	67;"	d	line:67
+PUBLIC::	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	64;"	d	line:64
+PollTempOnHPCExplorer	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\temperature.c	200;"	f	line:200	signature:(void)
+PollTempOnHPCExplorer	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\temperature.h	46;"	p	line:46	signature:(void)
+PollTempOnHPCExplorer::	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\temperature.h	48;"	d	line:48
+ProcessIO	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.c	137;"	f	line:137	signature:(void)
+ProcessIO	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.h	105;"	p	line:105	signature:(void)
+QWORD	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	71;"	t	line:71
+QWORD_VAL	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	306;"	t	line:306
+RCPT_DEV::0	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	507;"	d	line:507
+RCPT_EP::2	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	509;"	d	line:509
+RCPT_INTF::1	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	508;"	d	line:508
+RCPT_OTH::3	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	510;"	d	line:510
+RD_POT	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.h	71;"	e	line:71
+RD_TEMP	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.h	68;"	e	line:68
+RD_TEMP_LOGGING	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.h	70;"	e	line:70
+READ_VERSION	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.h	55;"	e	line:55
+REMAPPED_HIGH_INTERRUPT_VECTOR_ADDRESS::0x08	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\main.c	196;"	d	line:196	file:
+REMAPPED_HIGH_INTERRUPT_VECTOR_ADDRESS::0x1008	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\main.c	188;"	d	line:188	file:
+REMAPPED_HIGH_INTERRUPT_VECTOR_ADDRESS::0x808	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\main.c	192;"	d	line:192	file:
+REMAPPED_LOW_INTERRUPT_VECTOR_ADDRESS::0x1018	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\main.c	189;"	d	line:189	file:
+REMAPPED_LOW_INTERRUPT_VECTOR_ADDRESS::0x18	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\main.c	197;"	d	line:197	file:
+REMAPPED_LOW_INTERRUPT_VECTOR_ADDRESS::0x818	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\main.c	193;"	d	line:193	file:
+REMAPPED_RESET_VECTOR_ADDRESS::0x00	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\main.c	195;"	d	line:195	file:
+REMAPPED_RESET_VECTOR_ADDRESS::0x1000	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\main.c	187;"	d	line:187	file:
+REMAPPED_RESET_VECTOR_ADDRESS::0x800	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\main.c	191;"	d	line:191	file:
+RESET	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.h	72;"	e	line:72
+ROM::rom	C:\Microchip Solutions\Microchip\Include\Compiler.h	94;"	d	line:94
+ROM_PTR_BASE::unsignedshortlong	C:\Microchip Solutions\Microchip\Include\Compiler.h	68;"	d	line:68
+RTR::0x00	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\temperature.c	210;"	d	line:210	file:
+ReadPOT	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.c	219;"	f	line:219	signature:(void)
+ReadPOT	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.c	91;"	p	line:91	file:	signature:(void)
+Recipient	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	166;"	m	line:166	struct:_CTRL_TRF_SETUP::<anonymous>
+Remapped_High_ISR	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\main.c	209;"	f	line:209	signature:(void)
+Remapped_Low_ISR	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\main.c	214;"	f	line:214	signature:(void)
+RemoteWakeup	C:\Microchip Solutions\Microchip\Usb\usb_device.c	65;"	v	line:65
+RequestType	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	167;"	m	line:167	struct:_CTRL_TRF_SETUP::<anonymous>
+Res	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usart.c	143;"	l	line:143
+ResetTempLog	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.c	197;"	f	line:197	signature:(void)
+ResetTempLog	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.c	90;"	p	line:90	file:	signature:(void)
+SETUP_PKT	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	287;"	t	line:287
+SETUP_TOKEN::0x0D	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	495;"	d	line:495
+SET_ADR::5	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	328;"	d	line:328
+SET_CFG::9	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	332;"	d	line:332
+SET_DSC::7	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	330;"	d	line:330
+SET_FEATURE::3	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	327;"	d	line:327
+SET_INTF::11	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	334;"	d	line:334
+SET_TEMP_LOGGING	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.h	69;"	e	line:69
+SET_TEMP_REAL	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.h	67;"	e	line:67
+SHORT	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	73;"	t	line:73
+SHORT_PKT_NOT_USED::0	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	490;"	d	line:490
+SHORT_PKT_PENDING::1	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	491;"	d	line:491
+SHORT_PKT_SENT::2	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	492;"	d	line:492
+STANDARD::0x00	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	503;"	d	line:503
+STAT	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	197;"	m	line:197	struct:__BDT::<anonymous>
+SYNCH_FRAME::12	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	335;"	d	line:335
+ServiceRequests	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.c	263;"	f	line:263	signature:(void)
+ServiceRequests	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.c	92;"	p	line:92	file:	signature:(void)
+SetConfigurationOptions::{	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	358;"	d	line:358
+SetConfigurationOptions::{	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	372;"	d	line:372
+SetConfigurationOptions::{U1CNFG1=UCFG_VAL;}	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	354;"	d	line:354
+SetConfigurationOptions::{U1CNFG1=UCFG_VAL;}	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	367;"	d	line:367
+SetupPkt	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	269;"	s	line:269
+SetupPkt	C:\Microchip Solutions\Microchip\Usb\usb_device.c	103;"	v	line:103
+Switch2IsPressed	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.c	498;"	f	line:498	signature:(void)
+Switch2IsPressed	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.c	88;"	p	line:88	file:	signature:(void)
+Switch3IsPressed	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.c	524;"	f	line:524	signature:(void)
+Switch3IsPressed	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.c	89;"	p	line:89	file:	signature:(void)
+TC74AddressRead::0b10011011	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\temperature.c	209;"	d	line:209	file:
+TC74AddressWrite::0b10011010	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\temperature.c	208;"	d	line:208	file:
+TEMPERATURE_H	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\temperature.h	35;"	d	line:35
+TEMP_LOGGING::0x01	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.h	51;"	d	line:51
+TEMP_REAL_TIME::0x00	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.h	50;"	d	line:50
+TIMER0H_VAL::0x48	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.c	83;"	d	line:83	file:
+TIMER0L_VAL::0xE5	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.c	82;"	d	line:82	file:
+TRANSFER_FLAGS	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	152;"	t	line:152
+TRIS_CARD_DETECT::TRISBbits.TRISB4	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	165;"	d	line:165
+TRIS_CARD_DETECT::TRISBbits.TRISB4	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	262;"	d	line:262
+TRIS_CARD_DETECT::TRISBbits.TRISB4	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	396;"	d	line:396
+TRIS_WRITE_DETECT::TRISAbits.TRISA4	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	168;"	d	line:168
+TRIS_WRITE_DETECT::TRISAbits.TRISA4	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	265;"	d	line:265
+TRIS_WRITE_DETECT::TRISAbits.TRISA4	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	399;"	d	line:399
+TRUE	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	49;"	e	line:49	enum:_BOOL
+TXbyte	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.c	550;"	f	line:550	signature:(BYTE data)
+TYPE_CMD	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.h	73;"	t	line:73
+Temp	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usart.c	111;"	l	line:111
+TempAccumulator	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\temperature.c	49;"	v	line:49
+TempSave	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\temperature.c	50;"	v	line:50
+U1ADDR::UADDR	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	132;"	d	line:132
+U1CNFG1::UCFG	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	141;"	d	line:141
+U1CON::UCON	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	137;"	d	line:137
+U1CONbits::UCONbits	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	139;"	d	line:139
+U1EIE::UEIE	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	136;"	d	line:136
+U1EIR::UEIR	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	135;"	d	line:135
+U1EP0::UEP0	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	138;"	d	line:138
+U1EP0bits::UEP0bits	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	143;"	d	line:143
+U1EP1::UEP1	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	140;"	d	line:140
+U1IE::UIE	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	133;"	d	line:133
+U1IR::UIR	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	134;"	d	line:134
+U1STAT::USTAT	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	142;"	d	line:142
+UARTGetChar	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usart.c	109;"	f	line:109
+UARTGetChar	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usart.h	54;"	p	line:54	signature:()
+UARTGetStr	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usart.c	190;"	f	line:190	signature:(uint8_t *str, uint16_t len)
+UARTGetStr	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usart.h	97;"	p	line:97	signature:(uint8_t *, uint16_t)
+UARTIsPresent	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usart.c	82;"	f	line:82
+UARTIsPresent	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usart.h	40;"	p	line:40	signature:()
+UARTPutChar	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usart.c	56;"	f	line:56	signature:(int8_t Ch)
+UARTPutChar	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usart.h	26;"	p	line:26	signature:(int8_t Ch)
+UARTPutDec	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usart.c	141;"	f	line:141	signature:(uint8_t Dec)
+UARTPutDec	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usart.h	69;"	p	line:69	signature:(uint8_t Dec)
+UARTPutStr	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usart.c	169;"	f	line:169	signature:(uint8_t *str)
+UARTPutStr	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usart.h	83;"	p	line:83	signature:(uint8_t *)
+UB	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	168;"	m	line:168	struct:_DWORD_VAL::<anonymous>
+UCHAR8	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	81;"	t	line:81
+UEP	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	224;"	m	line:224
+UEP_STALL::0x0001	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	227;"	d	line:227
+UINT	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	93;"	t	line:93
+UINT16	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	95;"	t	line:95
+UINT32	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	96;"	t	line:96
+UINT64	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	97;"	t	line:97
+UINT8	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	94;"	t	line:94
+UOWN	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	171;"	m	line:171	struct:_BD_STAT::<anonymous>
+UOWN	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	183;"	m	line:183	struct:_BD_STAT::<anonymous>
+UPDATE_LED	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.h	66;"	e	line:66
+UPPER_LSB::(a)((a).v[2])	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	218;"	d	line:218
+UPPER_MSB::(a)((a).v[3])	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	219;"	d	line:219
+USARTInit	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usart.c	27;"	f	line:27
+USARTInit	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usart.h	13;"	p	line:13	signature:(void)
+USART_H	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usart.h	8;"	d	line:8
+USBActiveConfiguration	C:\Microchip Solutions\Microchip\Usb\usb_device.c	54;"	v	line:54
+USBActivityIE::UIEbits.ACTVIE	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	107;"	d	line:107
+USBActivityIF::UIRbits.ACTVIF	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	108;"	d	line:108
+USBActivityIFBitNum::2	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	110;"	d	line:110
+USBActivityIFReg::(BYTE*)&UIR	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	109;"	d	line:109
+USBAlternateInterface	C:\Microchip Solutions\Microchip\Usb\usb_device.c	55;"	v	line:55
+USBCBCheckOtherReq	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	620;"	p	line:620	signature:(void)
+USBCBCheckOtherReq	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\main.c	664;"	f	line:664	signature:(void)
+USBCBEP0DataReceived	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	609;"	p	line:609	signature:(void)
+USBCBErrorHandler	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	619;"	p	line:619	signature:(void)
+USBCBErrorHandler	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\main.c	613;"	f	line:613	signature:(void)
+USBCBInitDevClass	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	621;"	p	line:621	signature:(void)
+USBCBInitEP	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	624;"	p	line:624	signature:(void)
+USBCBInitEP	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\main.c	714;"	f	line:714	signature:(void)
+USBCBSendResume	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	623;"	p	line:623	signature:(void)
+USBCBSendResume	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\main.c	789;"	f	line:789	signature:(void)
+USBCBStdSetDscHandler	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	622;"	p	line:622	signature:(void)
+USBCBStdSetDscHandler	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\main.c	688;"	f	line:688	signature:(void)
+USBCBSuspend	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	616;"	p	line:616	signature:(void)
+USBCBSuspend	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\main.c	464;"	f	line:464	signature:(void)
+USBCBWakeFromSuspend	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	617;"	p	line:617	signature:(void)
+USBCBWakeFromSuspend	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\main.c	560;"	f	line:560	signature:(void)
+USBCB_EP0_DATA_RECEIVED::	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	612;"	d	line:612
+USBCB_EP0_DATA_RECEIVED::USBCBEP0DataReceived	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	610;"	d	line:610
+USBCB_SOF_Handler	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	618;"	p	line:618	signature:(void)
+USBCB_SOF_Handler	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\main.c	590;"	f	line:590	signature:(void)
+USBCFG_H	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usb_config.h	50;"	d	line:50
+USBCheckStdRequest	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	580;"	p	line:580	signature:(void)
+USBCheckStdRequest	C:\Microchip Solutions\Microchip\Usb\usb_device.c	958;"	f	line:958	signature:(void)
+USBClearInterruptFlag	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	874;"	p	line:874	signature:(BYTE* reg, BYTE flag)
+USBClearInterruptFlag	C:\Microchip Solutions\Microchip\Usb\usb_device.c	1815;"	f	line:1815	signature:(BYTE* reg, BYTE flag)
+USBClearInterruptRegister::(reg)reg=0;	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	893;"	d	line:893
+USBClearInterruptRegister::(reg)reg=0xFF;	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	895;"	d	line:895
+USBConfigureEndpoint	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	593;"	p	line:593	signature:(BYTE EPNum, BYTE direction)
+USBConfigureEndpoint	C:\Microchip Solutions\Microchip\Usb\usb_device.c	1588;"	f	line:1588	signature:(BYTE EPNum, BYTE direction)
+USBCtrlEPService	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	577;"	p	line:577	signature:(void)
+USBCtrlEPService	C:\Microchip Solutions\Microchip\Usb\usb_device.c	608;"	f	line:608	signature:(void)
+USBCtrlEPServiceComplete	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	582;"	p	line:582	signature:(void)
+USBCtrlEPServiceComplete	C:\Microchip Solutions\Microchip\Usb\usb_device.c	1238;"	f	line:1238	signature:(void)
+USBCtrlTrfInHandler	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	579;"	p	line:579	signature:(void)
+USBCtrlTrfInHandler	C:\Microchip Solutions\Microchip\Usb\usb_device.c	771;"	f	line:771	signature:(void)
+USBCtrlTrfOutHandler	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	589;"	p	line:589	signature:(void)
+USBCtrlTrfOutHandler	C:\Microchip Solutions\Microchip\Usb\usb_device.c	735;"	f	line:735	signature:(void)
+USBCtrlTrfRxService	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	585;"	p	line:585	signature:(void)
+USBCtrlTrfRxService	C:\Microchip Solutions\Microchip\Usb\usb_device.c	1464;"	f	line:1464	signature:(void)
+USBCtrlTrfSetupHandler	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	578;"	p	line:578	signature:(void)
+USBCtrlTrfSetupHandler	C:\Microchip Solutions\Microchip\Usb\usb_device.c	688;"	f	line:688	signature:(void)
+USBCtrlTrfTxService	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	583;"	p	line:583	signature:(void)
+USBCtrlTrfTxService	C:\Microchip Solutions\Microchip\Usb\usb_device.c	1381;"	f	line:1381	signature:(void)
+USBDEVICE_H	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	57;"	d	line:57
+USBDeviceInit	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	573;"	p	line:573	signature:(void)
+USBDeviceInit	C:\Microchip Solutions\Microchip\Usb\usb_device.c	158;"	f	line:158	signature:(void)
+USBDeviceState	C:\Microchip Solutions\Microchip\Usb\usb_device.c	53;"	v	line:53
+USBDeviceTasks	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	553;"	p	line:553	signature:(void)
+USBDeviceTasks	C:\Microchip Solutions\Microchip\Usb\usb_device.c	252;"	f	line:252	signature:(void)
+USBDeviceTasks	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\main.c	166;"	p	line:166	file:	signature:(void)
+USBEP0SendRAMPtr::(src,size,options){USBEP0SetSo	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	790;"	d	line:790
+USBEP0SendROMPtr::(src,size,options){USBEP0SetSo	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	817;"	d	line:817
+USBEP0SetSize::(size)inPipes[0].wCount.Val=si	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	763;"	d	line:763
+USBEP0SetSourceRAM::(src)inPipes[0].pSrc.bRam=src	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	702;"	d	line:702
+USBEP0SetSourceROM::(src)inPipes[0].pSrc.bRom=src	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	720;"	d	line:720
+USBEP0Transmit::(options)inPipes[0].info.Val=o	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	745;"	d	line:745
+USBEPService	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	592;"	p	line:592	signature:(void)
+USBEnableEndpoint	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	600;"	p	line:600	signature:(BYTE ep,BYTE options)
+USBEnableEndpoint	C:\Microchip Solutions\Microchip\Usb\usb_device.c	1657;"	f	line:1657	signature:(BYTE ep, BYTE options)
+USBErrorIE::UIEbits.UERRIE	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	122;"	d	line:122
+USBErrorIF::UIRbits.UERRIF	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	123;"	d	line:123
+USBErrorIFBitNum::1	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	125;"	d	line:125
+USBErrorIFReg::(BYTE*)&UIR	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	124;"	d	line:124
+USBGEN_EP_NUM::1	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usb_config.h	103;"	d	line:103
+USBGEN_EP_SIZE::64	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usb_config.h	102;"	d	line:102
+USBGEN_H	C:\Microchip Solutions\Microchip\Include\Usb\usb_function_generic.h	39;"	d	line:39
+USBGenRead::(ep,pSrc,len)USBRxOnePacket(ep	C:\Microchip Solutions\Microchip\Include\Usb\usb_function_generic.h	110;"	d	line:110
+USBGenWrite::(ep,pSrc,len)USBTxOnePacket(ep	C:\Microchip Solutions\Microchip\Include\Usb\usb_function_generic.h	109;"	d	line:109
+USBGenericInHandle	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.c	76;"	v	line:76
+USBGenericOutHandle	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.c	75;"	v	line:75
+USBHALControlBusPower	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	191;"	p	line:191	signature:( BYTE cmd )
+USBHALControlUsbResistors	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	124;"	p	line:124	signature:( BYTE flags )
+USBHALControlUsbResistors	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	127;"	p	line:127	signature:( BYTE flags )
+USBHALControlUsbResistors::OTGCORE_ControlUsbResistors	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	126;"	d	line:126
+USBHALFlushPipe	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	393;"	p	line:393	signature:( TRANSFER_FLAGS pipe )
+USBHALGetLastError	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	226;"	p	line:226	signature:( void )
+USBHALGetStalledEndpoints	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	361;"	p	line:361	signature:( void )
+USBHALGetStalledEndpoints::OTGCORE_GetStalledEndpoints	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	359;"	d	line:359
+USBHALHandleBusEvent	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	264;"	p	line:264	signature:( void )
+USBHALInitialize	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	529;"	p	line:529	signature:( unsigned long flags )
+USBHALSessionIsValid	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	168;"	p	line:168	signature:( void )
+USBHALSetBusAddress	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	93;"	p	line:93	signature:( BYTE addr )
+USBHALSetBusAddress::OTGCORE_SetDeviceAddr	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	91;"	d	line:91
+USBHALSetEpConfiguration	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	485;"	p	line:485	signature:( BYTE ep_num, UINT16 max_pkt_size, UINT16 flags )
+USBHALStallPipe	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	301;"	p	line:301	signature:( TRANSFER_FLAGS pipe )
+USBHALStallPipe::OTGCORE_StallPipe	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	299;"	d	line:299
+USBHALTransferData	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	447;"	p	line:447	signature:( TRANSFER_FLAGS flags, void *buffer, unsigned int size )
+USBHALUnstallPipe	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	331;"	p	line:331	signature:( TRANSFER_FLAGS pipe )
+USBHALUnstallPipe::OTGCORE_UnstallPipe	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	329;"	d	line:329
+USBHAL_BTO_ERR::0x00000010	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	236;"	d	line:236
+USBHAL_BTS_ERR::0x00000080	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	238;"	d	line:238
+USBHAL_CRC16::0x00000004	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	234;"	d	line:234
+USBHAL_CRC5::0x00000002	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	232;"	d	line:232
+USBHAL_DFN8::0x00000008	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	235;"	d	line:235
+USBHAL_DMA_ERR2::0x00000400	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	241;"	d	line:241
+USBHAL_DMA_ERR::0x00000020	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	237;"	d	line:237
+USBHAL_HOST_EOF::0x00000002	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	233;"	d	line:233
+USBHAL_NO_EP::0x00000200	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	240;"	d	line:240
+USBHAL_PID_ERR::0x00000001	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	231;"	d	line:231
+USBHAL_XFER_ID::0x00000100	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	239;"	d	line:239
+USBHandleBusy::(handle)(handle==0?0:handle->S	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	650;"	d	line:650
+USBHandleGetAddr::(handle)(handle->ADR)	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	684;"	d	line:684
+USBHandleGetLength::(handle)(handle->CNT)	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	667;"	d	line:667
+USBIdleIE::UIEbits.IDLEIE	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	102;"	d	line:102
+USBIdleIF::UIRbits.IDLEIF	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	103;"	d	line:103
+USBIdleIFBitNum::4	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	105;"	d	line:105
+USBIdleIFReg::(BYTE*)&UIR	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	104;"	d	line:104
+USBInData	C:\Microchip Solutions\Microchip\Usb\usb_device.c	68;"	v	line:68
+USBInMaxPacketSize	C:\Microchip Solutions\Microchip\Usb\usb_device.c	67;"	v	line:67
+USBInitEP	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	603;"	p	line:603	signature:(BYTE ROM* pConfig)
+USBInitEP::(a)	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	605;"	d	line:605
+USBInitialize::(f)	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	448;"	d	line:448
+USBInitialize::(f)USBDEVInitialize(f)	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	451;"	d	line:451
+USBInitialize::(f)USBHostInit(f)	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	455;"	d	line:455
+USBIsTxBusy	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	590;"	p	line:590	signature:(BYTE EPNumber)
+USBPacketDisable::UCONbits.PKTDIS	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	129;"	d	line:129
+USBPingPongBufferReset::UCONbits.PPBRST	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	90;"	d	line:90
+USBPowerModule::	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	75;"	d	line:75
+USBPrepareForNextSetupTrf	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	584;"	p	line:584	signature:(void)
+USBPrepareForNextSetupTrf	C:\Microchip Solutions\Microchip\Usb\usb_device.c	842;"	f	line:842	signature:(void)
+USBProtocolResetHandler	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	595;"	p	line:595	signature:(void)
+USBPut	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	591;"	p	line:591	signature:(BYTE EPNum, BYTE Data)
+USBRemoteWakeup	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	575;"	p	line:575	signature:(void)
+USBResetIE::UIEbits.URSTIE	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	97;"	d	line:97
+USBResetIF::UIRbits.URSTIF	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	98;"	d	line:98
+USBResetIFBitNum::0	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	100;"	d	line:100
+USBResetIFReg::(BYTE*)&UIR	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	99;"	d	line:99
+USBResumeControl::UCONbits.RESUME	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	130;"	d	line:130
+USBRxOnePacket::(ep,data,len)USBTransferOnePac	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	855;"	d	line:855
+USBSE0Event::UCONbits.SE0	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	127;"	d	line:127
+USBSOFIE::UIEbits.SOFIE	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	112;"	d	line:112
+USBSOFIF::UIRbits.SOFIF	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	113;"	d	line:113
+USBSOFIFBitNum::6	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	115;"	d	line:115
+USBSOFIFReg::(BYTE*)&UIR	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	114;"	d	line:114
+USBSetBDTAddress::(addr)	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	89;"	d	line:89
+USBSoftDetach	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	576;"	p	line:576	signature:(void)
+USBStallEndpoint	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	915;"	p	line:915	signature:(BYTE ep, BYTE dir)
+USBStallEndpoint	C:\Microchip Solutions\Microchip\Usb\usb_device.c	1695;"	f	line:1695	signature:(BYTE ep, BYTE dir)
+USBStallHandler	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	598;"	p	line:598	signature:(void)
+USBStallHandler	C:\Microchip Solutions\Microchip\Usb\usb_device.c	447;"	f	line:447	signature:(void)
+USBStallIE::UIEbits.STALLIE	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	117;"	d	line:117
+USBStallIF::UIRbits.STALLIF	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	118;"	d	line:118
+USBStallIFBitNum::5	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	120;"	d	line:120
+USBStallIFReg::(BYTE*)&UIR	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	119;"	d	line:119
+USBStdFeatureReqHandler	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	588;"	p	line:588	signature:(void)
+USBStdFeatureReqHandler	C:\Microchip Solutions\Microchip\Usb\usb_device.c	1023;"	f	line:1023	signature:(void)
+USBStdGetDscHandler	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	581;"	p	line:581	signature:(void)
+USBStdGetDscHandler	C:\Microchip Solutions\Microchip\Usb\usb_device.c	1110;"	f	line:1110	signature:(void)
+USBStdGetStatusHandler	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	587;"	p	line:587	signature:(void)
+USBStdGetStatusHandler	C:\Microchip Solutions\Microchip\Usb\usb_device.c	1160;"	f	line:1160	signature:(void)
+USBStdSetCfgHandler	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	586;"	p	line:586	signature:(void)
+USBStdSetCfgHandler	C:\Microchip Solutions\Microchip\Usb\usb_device.c	1540;"	f	line:1540	signature:(void)
+USBSuspend	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	597;"	p	line:597	signature:(void)
+USBSuspend	C:\Microchip Solutions\Microchip\Usb\usb_device.c	490;"	f	line:490	signature:(void)
+USBSuspendControl::UCONbits.SUSPND	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	128;"	d	line:128
+USBTasks::USBHALHandleBusEvent	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	497;"	d	line:497
+USBTasks::USBHostTasks	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	501;"	d	line:501
+USBTasks::{USBHostTasks;USBHALHandleBusE	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	494;"	d	line:494
+USBTransactionCompleteIE::UIEbits.TRNIE	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	92;"	d	line:92
+USBTransactionCompleteIF::UIRbits.TRNIF	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	93;"	d	line:93
+USBTransactionCompleteIFBitNum::3	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	95;"	d	line:95
+USBTransactionCompleteIFReg::(BYTE*)&UIR	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	94;"	d	line:94
+USBTransferOnePacket	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	599;"	p	line:599	signature:(BYTE ep, BYTE dir, BYTE* data, BYTE len)
+USBTransferOnePacket	C:\Microchip Solutions\Microchip\Usb\usb_device.c	1752;"	f	line:1752	signature:(BYTE ep,BYTE dir,BYTE* data,BYTE len)
+USBTxOnePacket::(ep,data,len)USBTransferOnePac	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	836;"	d	line:836
+USBWakeFromSuspend	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	596;"	p	line:596	signature:(void)
+USBWakeFromSuspend	C:\Microchip Solutions\Microchip\Usb\usb_device.c	548;"	f	line:548	signature:(void)
+USB_ALLOW_SETUP::0x00	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	398;"	d	line:398
+USB_ALLOW_SETUP::0x00	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	419;"	d	line:419
+USB_BDT_ADDRESS::0x400	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	229;"	d	line:229
+USB_BUSY::0x02	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	68;"	d	line:68
+USB_BUS_SENSE::1	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	103;"	d	line:103
+USB_BUS_SENSE::1	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	189;"	d	line:189
+USB_BUS_SENSE::1	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	284;"	d	line:284
+USB_BUS_SENSE::1	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	347;"	d	line:347
+USB_BUS_SENSE::PORTAbits.RA1	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	101;"	d	line:101
+USB_BUS_SENSE::PORTAbits.RA1	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	282;"	d	line:282
+USB_BUS_SENSE::PORTBbits.RB5	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	187;"	d	line:187
+USB_CANNOT_ENUMERATE::0x07	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	73;"	d	line:73
+USB_CD_Ptr	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usb_descriptors.c	263;"	v	line:263
+USB_CFG_DSC_REM_WAKE::(0x20|USB_CFG_DSC_REQUIRED)	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	116;"	d	line:116
+USB_CFG_DSC_REQUIRED::0x80	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	114;"	d	line:114
+USB_CFG_DSC_SELF_PWR::(0x40|USB_CFG_DSC_REQUIRED)	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	115;"	d	line:115
+USB_CONFIGURATION_DESCRIPTOR	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	111;"	t	line:111
+USB_DATA0::0x00|USB_FORCE_DTS	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	189;"	d	line:189
+USB_DATA1::0x20|USB_FORCE_DTS	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	190;"	d	line:190
+USB_DESCRIPTOR_CONFIGURATION::0x02	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	59;"	d	line:59
+USB_DESCRIPTOR_DEVICE::0x01	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	58;"	d	line:58
+USB_DESCRIPTOR_DEVICE_QUALIFIER::0x06	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	63;"	d	line:63
+USB_DESCRIPTOR_ENDPOINT::0x05	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	62;"	d	line:62
+USB_DESCRIPTOR_INTERFACE::0x04	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	61;"	d	line:61
+USB_DESCRIPTOR_INTERFACE_POWER::0x08	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	65;"	d	line:65
+USB_DESCRIPTOR_OTG::0x09	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	66;"	d	line:66
+USB_DESCRIPTOR_OTHER_SPEED::0x07	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	64;"	d	line:64
+USB_DESCRIPTOR_STRING::0x03	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	60;"	d	line:60
+USB_DEVICE_ATTACHED::(USB_DEVICE_STATUS|0x30)	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	98;"	d	line:98
+USB_DEVICE_DESCRIPTOR	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	91;"	t	line:91
+USB_DEVICE_DETACHED::(USB_DEVICE_STATUS|0x01)	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	99;"	d	line:99
+USB_DEVICE_ENUMERATING::(USB_DEVICE_STATUS|0x02)	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	100;"	d	line:100
+USB_DEVICE_QUALIFIER_DESCRIPTOR	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	256;"	t	line:256
+USB_DEVICE_STATUS::0x30	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	97;"	d	line:97
+USB_DEVICE_SUSPENDED::(USB_DEVICE_STATUS|0x0A)	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	108;"	d	line:108
+USB_DISALLOW_SETUP::0x08	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	399;"	d	line:399
+USB_DISALLOW_SETUP::0x10	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	420;"	d	line:420
+USB_DOT_VER::0	C:\Microchip Solutions\Microchip\Include\Usb\usb.h	91;"	d	line:91
+USB_DTS_MASK::0x20	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	187;"	d	line:187
+USB_ENDPOINT_BUSY::0x10	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	75;"	d	line:75
+USB_ENDPOINT_DESCRIPTOR	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	155;"	t	line:155
+USB_ENDPOINT_ERROR::0x12	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	77;"	d	line:77
+USB_ENDPOINT_ERROR_BIT_STUFF::0x20	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	85;"	d	line:85
+USB_ENDPOINT_ERROR_BMX::0x27	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	92;"	d	line:92
+USB_ENDPOINT_ERROR_CRC16::0x24	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	89;"	d	line:89
+USB_ENDPOINT_ERROR_DATA_FIELD::0x23	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	88;"	d	line:88
+USB_ENDPOINT_ERROR_DMA::0x21	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	86;"	d	line:86
+USB_ENDPOINT_ERROR_END_OF_FRAME::0x25	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	90;"	d	line:90
+USB_ENDPOINT_ERROR_ILLEGAL_PID::0x13	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	78;"	d	line:78
+USB_ENDPOINT_ERROR_PID_CHECK::0x26	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	91;"	d	line:91
+USB_ENDPOINT_ERROR_TIMEOUT::0x22	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	87;"	d	line:87
+USB_ENDPOINT_ILLEGAL_DIRECTION::0x15	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	80;"	d	line:80
+USB_ENDPOINT_ILLEGAL_TYPE::0x18	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	83;"	d	line:83
+USB_ENDPOINT_NAK_TIMEOUT::0x17	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	82;"	d	line:82
+USB_ENDPOINT_NOT_FOUND::0x14	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	79;"	d	line:79
+USB_ENDPOINT_STALLED::0x11	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	76;"	d	line:76
+USB_ENDPOINT_UNRESOLVED_STATE::0x19	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	84;"	d	line:84
+USB_EP0::0	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	161;"	d	line:161
+USB_EP0_BUFF_SIZE::8	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usb_config.h	53;"	d	line:53
+USB_EP0_BUSY::USB_INPIPES_BUSY	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	316;"	d	line:316
+USB_EP0_INCLUDE_ZERO::USB_INPIPES_INCLUDE_ZERO	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	317;"	d	line:317
+USB_EP0_NO_DATA::USB_INPIPES_NO_DATA	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	318;"	d	line:318
+USB_EP0_NO_OPTIONS::USB_INPIPES_NO_OPTIONS	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	319;"	d	line:319
+USB_EP0_RAM::USB_INPIPES_RAM	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	315;"	d	line:315
+USB_EP0_ROM::USB_INPIPES_ROM	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	314;"	d	line:314
+USB_EP10::10	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	171;"	d	line:171
+USB_EP11::11	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	172;"	d	line:172
+USB_EP12::12	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	173;"	d	line:173
+USB_EP13::13	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	174;"	d	line:174
+USB_EP14::14	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	175;"	d	line:175
+USB_EP15::15	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	176;"	d	line:176
+USB_EP1::1	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	162;"	d	line:162
+USB_EP2::2	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	163;"	d	line:163
+USB_EP3::3	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	164;"	d	line:164
+USB_EP4::4	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	165;"	d	line:165
+USB_EP5::5	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	166;"	d	line:166
+USB_EP6::6	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	167;"	d	line:167
+USB_EP7::7	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	168;"	d	line:168
+USB_EP8::8	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	169;"	d	line:169
+USB_EP9::9	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	170;"	d	line:170
+USB_EP_NUM_MASK::0x0F	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	194;"	d	line:194
+USB_ERROR_CLASS_DEFINED::0x50	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	110;"	d	line:110
+USB_ERROR_INSUFFICIENT_POWER::0x28	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	93;"	d	line:93
+USB_EVENT	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	323;"	t	line:323
+USB_EVENT_HANDLER	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	406;"	t	line:406
+USB_EVENT_QUEUE_FULL::0x08	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	74;"	d	line:74
+USB_EXTERNAL_TRANSCEIVER::0x08	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	275;"	d	line:275
+USB_FEATURE_DEVICE_REMOTE_WAKEUP::1	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	351;"	d	line:351
+USB_FEATURE_DEVICE_REMOTE_WAKEUP::1	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	381;"	d	line:381
+USB_FEATURE_ENDPOINT_HALT::0	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	350;"	d	line:350
+USB_FEATURE_ENDPOINT_STALL::0	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	380;"	d	line:380
+USB_FEATURE_TEST_MODE::2	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	352;"	d	line:352
+USB_FEATURE_TEST_MODE::2	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	382;"	d	line:382
+USB_FORCE_DTS::0x40	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	186;"	d	line:186
+USB_FULL_SPEED::0x04	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	277;"	d	line:277
+USB_HAL_ALLOW_HUB::0x8000	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	504;"	d	line:504
+USB_HAL_DEV_CONN_FULL_SPD::USB_HAL_PULL_UP_D_PLUS	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	138;"	d	line:138
+USB_HAL_DEV_CONN_LOW_SPD::USB_HAL_PULL_UP_D_MINUS	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	139;"	d	line:139
+USB_HAL_DEV_DISCONNECT::0	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	140;"	d	line:140
+USB_HAL_HANDSHAKE::0x0100	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	498;"	d	line:498
+USB_HAL_HANDSHAKE::0x1000	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	491;"	d	line:491
+USB_HAL_HW_KEEPS::0x0020	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	494;"	d	line:494
+USB_HAL_NO_INC::0x0010	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	493;"	d	line:493
+USB_HAL_NO_RETRY::0x4000	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	505;"	d	line:505
+USB_HAL_PULL_DN_D_MINUS::0x10	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	134;"	d	line:134
+USB_HAL_PULL_DN_D_PLUS::0x20	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	133;"	d	line:133
+USB_HAL_PULL_UP_D_MINUS::0x40	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	132;"	d	line:132
+USB_HAL_PULL_UP_D_PLUS::0x80	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	131;"	d	line:131
+USB_HAL_RECEIVE::0x0200	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	490;"	d	line:490
+USB_HAL_RECEIVE::0x0800	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	497;"	d	line:497
+USB_HAL_TRANSMIT::0x0400	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	489;"	d	line:489
+USB_HAL_TRANSMIT::0x0400	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	496;"	d	line:496
+USB_HANDLE::volatileBDT_ENTRY*	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	425;"	d	line:425
+USB_HANDSHAKE_DISABLED::0x00	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	390;"	d	line:390
+USB_HANDSHAKE_DISABLED::0x00	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	411;"	d	line:411
+USB_HANDSHAKE_ENABLED::0x01	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	410;"	d	line:410
+USB_HANDSHAKE_ENABLED::0x10	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	389;"	d	line:389
+USB_HOLDING_CLIENT_INIT_ERROR::(USB_DEVICE_STATUS|0x09)	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	107;"	d	line:107
+USB_HOLDING_INVALID_CONFIGURATION::(USB_DEVICE_STATUS|0x06)	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	104;"	d	line:104
+USB_HOLDING_OUT_OF_MEMORY::(USB_DEVICE_STATUS|0x03)	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	101;"	d	line:101
+USB_HOLDING_POWER_REQUIREMENT::(USB_DEVICE_STATUS|0x08)	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	106;"	d	line:106
+USB_HOLDING_PROCESSING_CAPACITY::(USB_DEVICE_STATUS|0x07)	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	105;"	d	line:105
+USB_HOLDING_UNSUPPORTED_DEVICE::(USB_DEVICE_STATUS|0x04)	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	102;"	d	line:102
+USB_HOLDING_UNSUPPORTED_HUB::(USB_DEVICE_STATUS|0x05)	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	103;"	d	line:103
+USB_HUB_CLASSCODE::0x09	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	386;"	d	line:386
+USB_ILLEGAL_REQUEST::0x03	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	69;"	d	line:69
+USB_INPIPES_BUSY::0x80	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	309;"	d	line:309
+USB_INPIPES_INCLUDE_ZERO::0x40	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	310;"	d	line:310
+USB_INPIPES_NO_DATA::0x00	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	311;"	d	line:311
+USB_INPIPES_NO_OPTIONS::0x00	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	312;"	d	line:312
+USB_INPIPES_RAM::0x01	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	308;"	d	line:308
+USB_INPIPES_ROM::0x00	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	307;"	d	line:307
+USB_INTERFACE_DESCRIPTOR	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	137;"	t	line:137
+USB_INTERNAL_TRANSCEIVER::0x00	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	274;"	d	line:274
+USB_INVALID_CONFIGURATION::0x04	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	70;"	d	line:70
+USB_INVALID_STATE::0x01	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	67;"	d	line:67
+USB_IN_DISABLED::0x00	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	396;"	d	line:396
+USB_IN_DISABLED::0x00	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	417;"	d	line:417
+USB_IN_ENABLED::0x02	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	395;"	d	line:395
+USB_IN_ENABLED::0x04	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	416;"	d	line:416
+USB_IN_EP::0x80	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	333;"	d	line:333
+USB_LOW_SPEED::0x00	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	278;"	d	line:278
+USB_MAJOR_VER::1	C:\Microchip Solutions\Microchip\Include\Usb\usb.h	89;"	d	line:89
+USB_MAX_EP_NUMBER::1	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usb_config.h	61;"	d	line:61
+USB_MAX_NUM_INT::1	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usb_config.h	60;"	d	line:60
+USB_MEMORY_ALLOCATION_ERROR::0x05	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	71;"	d	line:71
+USB_MINOR_VER::0	C:\Microchip Solutions\Microchip\Include\Usb\usb.h	90;"	d	line:90
+USB_NEXT_EP0_IN_PING_PONG::0x0000	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1138;"	d	line:1138
+USB_NEXT_EP0_IN_PING_PONG::0x0000	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	920;"	d	line:920
+USB_NEXT_EP0_IN_PING_PONG::0x0000	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	993;"	d	line:993
+USB_NEXT_EP0_IN_PING_PONG::0x0004	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1065;"	d	line:1065
+USB_NEXT_EP0_OUT_PING_PONG::0x0000	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1137;"	d	line:1137
+USB_NEXT_EP0_OUT_PING_PONG::0x0000	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	919;"	d	line:919
+USB_NEXT_EP0_OUT_PING_PONG::0x0004	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1064;"	d	line:1064
+USB_NEXT_EP0_OUT_PING_PONG::0x0004	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	992;"	d	line:992
+USB_NEXT_PING_PONG::0x0000	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	921;"	d	line:921
+USB_NEXT_PING_PONG::0x0000	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	994;"	d	line:994
+USB_NEXT_PING_PONG::0x0004	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1066;"	d	line:1066
+USB_NEXT_PING_PONG::0x0004	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	1139;"	d	line:1139
+USB_OTG_DESCRIPTOR	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	206;"	t	line:206
+USB_OUT_DISABLED::0x00	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	393;"	d	line:393
+USB_OUT_DISABLED::0x00	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	414;"	d	line:414
+USB_OUT_ENABLED::0x04	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	392;"	d	line:392
+USB_OUT_ENABLED::0x08	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	413;"	d	line:413
+USB_OUT_EP::0x00	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	334;"	d	line:334
+USB_PING_PONG_MODE::USB_PING_PONG__NO_PING_PONG	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usb_config.h	76;"	d	line:76
+USB_PING_PONG__ALL_BUT_EP0::0x03	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	260;"	d	line:260
+USB_PING_PONG__EP0_OUT_ONLY::0x01	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	258;"	d	line:258
+USB_PING_PONG__FULL_PING_PONG::0x02	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	259;"	d	line:259
+USB_PING_PONG__NO_PING_PONG::0x00	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	257;"	d	line:257
+USB_POLLING	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usb_config.h	82;"	d	line:82
+USB_PULLUP_DISABLED::0x00	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	272;"	d	line:272
+USB_PULLUP_ENABLE::0x10	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	271;"	d	line:271
+USB_PULLUP_OPTION::USB_PULLUP_ENABLE	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usb_config.h	85;"	d	line:85
+USB_RECEIVE::0x00	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	185;"	d	line:185
+USB_REQUEST_CLEAR_FEATURE::1	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	339;"	d	line:339
+USB_REQUEST_GET_CONFIGURATION::8	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	344;"	d	line:344
+USB_REQUEST_GET_DESCRIPTOR::6	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	342;"	d	line:342
+USB_REQUEST_GET_INTERFACE::10	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	346;"	d	line:346
+USB_REQUEST_GET_STATUS::0	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	338;"	d	line:338
+USB_REQUEST_SET_ADDRESS::5	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	341;"	d	line:341
+USB_REQUEST_SET_CONFIGURATION::9	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	345;"	d	line:345
+USB_REQUEST_SET_DESCRIPTOR::7	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	343;"	d	line:343
+USB_REQUEST_SET_FEATURE::3	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	340;"	d	line:340
+USB_REQUEST_SET_INTERFACE::11	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	347;"	d	line:347
+USB_REQUEST_SYNCH_FRAME::12	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	348;"	d	line:348
+USB_SD_Ptr	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usb_descriptors.c	268;"	v	line:268
+USB_SETUP_DATA::USB_DATA1|USB_ZERO_PKT|USB_EP0	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	192;"	d	line:192
+USB_SETUP_DEVICE_TO_HOST::0x80	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	357;"	d	line:357
+USB_SETUP_HOST_TO_DEVICE::0x00	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	356;"	d	line:356
+USB_SETUP_PKT::USB_RECEIVE|USB_DATA0|USB_EP0	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	191;"	d	line:191
+USB_SETUP_RECIPIENT_DEVICE::0x00	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	361;"	d	line:361
+USB_SETUP_RECIPIENT_ENDPOINT::0x02	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	363;"	d	line:363
+USB_SETUP_RECIPIENT_INTERFACE::0x01	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	362;"	d	line:362
+USB_SETUP_RECIPIENT_OTHER::0x03	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	364;"	d	line:364
+USB_SETUP_STATUS::USB_DATA1|USB_EP0	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	193;"	d	line:193
+USB_SETUP_TYPE_CLASS::0x20	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	359;"	d	line:359
+USB_SETUP_TYPE_STANDARD::0x00	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	358;"	d	line:358
+USB_SETUP_TYPE_VENDOR::0x40	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	360;"	d	line:360
+USB_SINGLE_DEVICE_ADDRESS::0x01	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	112;"	d	line:112
+USB_SPEED_OPTION::USB_FULL_SPEED	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usb_config.h	91;"	d	line:91
+USB_STALL_ENDPOINT::0x01	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	401;"	d	line:401
+USB_STALL_ENDPOINT::0x02	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	422;"	d	line:422
+USB_STRING_DESCRIPTOR	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	230;"	t	line:230
+USB_SUCCESS::0x00	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	66;"	d	line:66
+USB_SUPPORT_DEVICE	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usb_config.h	96;"	d	line:96
+USB_TOKEN_IN::0x09	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	322;"	d	line:322
+USB_TOKEN_OUT::0x01	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	321;"	d	line:321
+USB_TOKEN_SETUP::0x0D	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	323;"	d	line:323
+USB_TRANSCEIVER_OPTION::USB_INTERNAL_TRANSCEIVER	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usb_config.h	88;"	d	line:88
+USB_TRANSFER_EVENT_DATA	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	341;"	t	line:341
+USB_TRANSFER_TYPE_BULK::0x02	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	376;"	d	line:376
+USB_TRANSFER_TYPE_CONTROL::0x00	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	374;"	d	line:374
+USB_TRANSFER_TYPE_INTERRUPT::0x03	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	377;"	d	line:377
+USB_TRANSFER_TYPE_ISOCHRONOUS::0x01	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	375;"	d	line:375
+USB_TRANSMIT::0x80	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	184;"	d	line:184
+USB_UNKNOWN_DEVICE::0x06	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	72;"	d	line:72
+USB_USER_CONFIG_DESCRIPTOR::USB_CD_Ptr	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usb_config.h	71;"	d	line:71
+USB_USER_CONFIG_DESCRIPTOR_INCLUDE::externROMBYTE*ROMUSB_CD_Ptr[]	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usb_config.h	72;"	d	line:72
+USB_USER_DEVICE_DESCRIPTOR::&device_dsc	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usb_config.h	66;"	d	line:66
+USB_USER_DEVICE_DESCRIPTOR_INCLUDE::externROMUSB_DEVICE_DESCRIPTOR	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usb_config.h	67;"	d	line:67
+USB_USE_GEN	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usb_config.h	97;"	d	line:97
+USB_VBUS_CHARGE::1	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	195;"	d	line:195
+USB_VBUS_DISCHARGE::0	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	194;"	d	line:194
+USB_VBUS_POWER_EVENT_DATA	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	356;"	t	line:356
+USB_VBUS_POWER_OFF::4	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	197;"	d	line:197
+USB_VBUS_POWER_ON::3	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	196;"	d	line:196
+USB_VOLATILE	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	230;"	d	line:230
+USB_ZERO_PKT::0x10	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	188;"	d	line:188
+USTAT_EP0_IN::0x04	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	218;"	d	line:218
+USTAT_EP0_IN_EVEN::0x04	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	219;"	d	line:219
+USTAT_EP0_IN_ODD::0x06	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	220;"	d	line:220
+USTAT_EP0_OUT::0x00	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	214;"	d	line:214
+USTAT_EP0_OUT_EVEN::0x00	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	215;"	d	line:215
+USTAT_EP0_OUT_ODD::0x02	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	216;"	d	line:216
+USTAT_EP0_PP_MASK::~0x02	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	212;"	d	line:212
+USTAT_EP_MASK::0x7E	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	213;"	d	line:213
+USTATcopy	C:\Microchip Solutions\Microchip\Usb\usb_device.c	66;"	v	line:66
+UW	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	236;"	m	line:236	struct:_QWORD_VAL::<anonymous>
+UpdateCelsiusASCII	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\temperature.c	319;"	f	line:319	signature:(void)
+UpdateCelsiusASCII	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\temperature.h	44;"	p	line:44	signature:(void)
+UserInit	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.c	96;"	f	line:96	signature:(void)
+UserInit	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.h	104;"	p	line:104	signature:(void)
+VENDOR::0x02	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	505;"	d	line:505
+VOID	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	78;"	t	line:78
+Val	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	110;"	m	line:110	union:_BYTE_VAL
+Val	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	126;"	m	line:126	union:_WORD_VAL
+Val	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	156;"	m	line:156	union:_DWORD_VAL
+Val	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	223;"	m	line:223	union:_QWORD_VAL
+Val	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	276;"	m	line:276
+Val	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	300;"	m	line:300
+Val	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	161;"	m	line:161	union:_BD_STAT
+Val	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	208;"	m	line:208	union:__BDT
+WAIT_SETUP::0	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	485;"	d	line:485
+WORD	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	69;"	t	line:69
+WORD_BITS	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	152;"	t	line:152
+WORD_VAL	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	152;"	t	line:152
+WRITE_DETECT::PORTAbits.RA4	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	169;"	d	line:169
+WRITE_DETECT::PORTAbits.RA4	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	266;"	d	line:266
+WRITE_DETECT::PORTAbits.RA4	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	400;"	d	line:400
+W_Index	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	161;"	m	line:161	struct:_CTRL_TRF_SETUP::<anonymous>
+W_Length	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	162;"	m	line:162	struct:_CTRL_TRF_SETUP::<anonymous>
+W_Value	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	160;"	m	line:160	struct:_CTRL_TRF_SETUP::<anonymous>
+XFLAGS::(f)((TRANSFER_FLAGS)((BYTE)(f)	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	203;"	d	line:203
+YourHighPriorityISRCode	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\main.c	167;"	p	line:167	file:	signature:(void)
+YourHighPriorityISRCode	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\main.c	254;"	f	line:254
+YourLowPriorityISRCode	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\main.c	168;"	p	line:168	file:	signature:(void)
+YourLowPriorityISRCode	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\main.c	263;"	f	line:263
+_AD::(0x02<<2)	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	124;"	d	line:124
+_AS::(0x01<<2)	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	123;"	d	line:123
+_BD_STAT	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	159;"	u	line:159
+_BOOL	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	49;"	g	line:49
+_BSTALL::0x04	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	146;"	d	line:146
+_BULK::0x02	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	118;"	d	line:118
+_BYTE_VAL	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	108;"	u	line:108
+_CLEAR::0	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	58;"	d	line:58
+_CTRL::0x00	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	116;"	d	line:116
+_CTRL_TRF_SETUP	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	145;"	u	line:145
+_DAT0::0x00	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	150;"	d	line:150
+_DAT1::0x40	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	151;"	d	line:151
+_DE::(0x00<<4)	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	128;"	d	line:128
+_DEFAULT::(0x01<<7)	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	111;"	d	line:111
+_DTSEN::0x08	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	147;"	d	line:147
+_DTSMASK::0x40	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	152;"	d	line:152
+_DWORD_VAL	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	154;"	u	line:154
+_EP01_IN::0x81	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	80;"	d	line:80
+_EP01_OUT::0x01	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	79;"	d	line:79
+_EP02_IN::0x82	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	82;"	d	line:82
+_EP02_OUT::0x02	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	81;"	d	line:81
+_EP03_IN::0x83	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	84;"	d	line:84
+_EP03_OUT::0x03	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	83;"	d	line:83
+_EP04_IN::0x84	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	86;"	d	line:86
+_EP04_OUT::0x04	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	85;"	d	line:85
+_EP05_IN::0x85	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	88;"	d	line:88
+_EP05_OUT::0x05	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	87;"	d	line:87
+_EP06_IN::0x86	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	90;"	d	line:90
+_EP06_OUT::0x06	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	89;"	d	line:89
+_EP07_IN::0x87	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	92;"	d	line:92
+_EP07_OUT::0x07	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	91;"	d	line:91
+_EP08_IN::0x88	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	94;"	d	line:94
+_EP08_OUT::0x08	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	93;"	d	line:93
+_EP09_IN::0x89	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	96;"	d	line:96
+_EP09_OUT::0x09	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	95;"	d	line:95
+_EP10_IN::0x8A	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	98;"	d	line:98
+_EP10_OUT::0x0A	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	97;"	d	line:97
+_EP11_IN::0x8B	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	100;"	d	line:100
+_EP11_OUT::0x0B	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	99;"	d	line:99
+_EP12_IN::0x8C	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	102;"	d	line:102
+_EP12_OUT::0x0C	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	101;"	d	line:101
+_EP13_IN::0x8D	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	104;"	d	line:104
+_EP13_OUT::0x0D	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	103;"	d	line:103
+_EP14_IN::0x8E	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	106;"	d	line:106
+_EP14_OUT::0x0E	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	105;"	d	line:105
+_EP15_IN::0x8F	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	108;"	d	line:108
+_EP15_OUT::0x0F	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	107;"	d	line:107
+_EP_IN::0x80	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	77;"	d	line:77
+_EP_OUT::0x00	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	78;"	d	line:78
+_FALSE::0	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	62;"	d	line:62
+_FE::(0x01<<4)	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	129;"	d	line:129
+_FS::0x04	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	264;"	d	line:264
+_IE::(0x02<<4)	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	130;"	d	line:130
+_INCDIS::0x10	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	148;"	d	line:148
+_INPUT::1	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	55;"	d	line:55
+_INT::0x03	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	119;"	d	line:119
+_ISO::0x01	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	117;"	d	line:117
+_KEN::0x20	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	149;"	d	line:149
+_LS::0x00	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	263;"	d	line:263
+_NS::(0x00<<2)	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	122;"	d	line:122
+_OEMON::0x40	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	268;"	d	line:268
+_OFF::0	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	60;"	d	line:60
+_ON::1	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	59;"	d	line:59
+_OUTPUT::0	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	56;"	d	line:56
+_POINTER	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	232;"	u	line:232
+_PUEN::0x10	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	267;"	d	line:267
+_QWORD_VAL	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	221;"	u	line:221
+_RAM::USB_INPIPES_RAM	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	133;"	d	line:133
+_ROM::USB_INPIPES_ROM	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	132;"	d	line:132
+_RWU::(0x01<<5)	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	113;"	d	line:113
+_SELF::(0x01<<6)	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	112;"	d	line:112
+_SET::1	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	57;"	d	line:57
+_STAT_MASK::0xFF	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	156;"	d	line:156
+_SY::(0x03<<2)	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	125;"	d	line:125
+_TREXT::0x08	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	266;"	d	line:266
+_TRINT::0x00	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	265;"	d	line:265
+_TRUE::1	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	61;"	d	line:61
+_UCPU::0x00	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	154;"	d	line:154
+_UEP	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	225;"	t	line:225
+_USB_CH9_H_	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	48;"	d	line:48
+_USB_COMMON_H_	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	51;"	d	line:51
+_USB_CONFIGURATION_DESCRIPTOR	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	101;"	s	line:101
+_USB_DEVICE_DESCRIPTOR	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	75;"	s	line:75
+_USB_DEVICE_QUALIFIER_DESCRIPTOR	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	244;"	s	line:244
+_USB_ENDPOINT_DESCRIPTOR	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	147;"	s	line:147
+_USB_HAL_H_	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h	54;"	d	line:54
+_USB_H_	C:\Microchip Solutions\Microchip\Include\Usb\usb.h	54;"	d	line:54
+_USB_INTERFACE_DESCRIPTOR	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	126;"	s	line:126
+_USB_OTG_DESCRIPTOR	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	201;"	s	line:201
+_USB_STRING_DSC	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	225;"	s	line:225
+_USIE::0x80	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	153;"	d	line:153
+_WORD_VAL	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	124;"	u	line:124
+__BDT	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	193;"	u	line:193
+__COMPILER_H	C:\Microchip Solutions\Microchip\Include\Compiler.h	53;"	d	line:53
+__GENERIC_TYPE_DEFS_H_	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	47;"	d	line:47
+__USB_DESCRIPTORS_C	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usb_descriptors.c	154;"	d	line:154	file:
+__attribute__::(a)	C:\Microchip Solutions\Microchip\Include\Compiler.h	88;"	d	line:88
+_byte	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.h	78;"	m	line:78	union:DATA_PACKET
+_reset	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\main.c	203;"	f	line:203	signature:(void)
+_startup	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\main.c	201;"	p	line:201	file:	signature:(void)
+_transfer_event_data	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	335;"	s	line:335
+_vbus_power_data	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	352;"	s	line:352
+_word	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	240;"	m	line:240	union:_POINTER
+_word	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.h	79;"	m	line:79	union:DATA_PACKET
+b0	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	113;"	m	line:113	struct:_BYTE_VAL::<anonymous>
+b0	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	135;"	m	line:135	struct:_WORD_VAL::<anonymous>
+b0	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	178;"	m	line:178	struct:_DWORD_VAL::<anonymous>
+b0	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	241;"	m	line:241	struct:_QWORD_VAL::<anonymous>
+b1	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	114;"	m	line:114	struct:_BYTE_VAL::<anonymous>
+b1	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	136;"	m	line:136	struct:_WORD_VAL::<anonymous>
+b1	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	179;"	m	line:179	struct:_DWORD_VAL::<anonymous>
+b1	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	242;"	m	line:242	struct:_QWORD_VAL::<anonymous>
+b10	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	145;"	m	line:145	struct:_WORD_VAL::<anonymous>
+b10	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	188;"	m	line:188	struct:_DWORD_VAL::<anonymous>
+b10	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	251;"	m	line:251	struct:_QWORD_VAL::<anonymous>
+b11	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	146;"	m	line:146	struct:_WORD_VAL::<anonymous>
+b11	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	189;"	m	line:189	struct:_DWORD_VAL::<anonymous>
+b11	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	252;"	m	line:252	struct:_QWORD_VAL::<anonymous>
+b12	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	147;"	m	line:147	struct:_WORD_VAL::<anonymous>
+b12	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	190;"	m	line:190	struct:_DWORD_VAL::<anonymous>
+b12	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	253;"	m	line:253	struct:_QWORD_VAL::<anonymous>
+b13	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	148;"	m	line:148	struct:_WORD_VAL::<anonymous>
+b13	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	191;"	m	line:191	struct:_DWORD_VAL::<anonymous>
+b13	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	254;"	m	line:254	struct:_QWORD_VAL::<anonymous>
+b14	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	149;"	m	line:149	struct:_WORD_VAL::<anonymous>
+b14	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	192;"	m	line:192	struct:_DWORD_VAL::<anonymous>
+b14	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	255;"	m	line:255	struct:_QWORD_VAL::<anonymous>
+b15	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	150;"	m	line:150	struct:_WORD_VAL::<anonymous>
+b15	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	193;"	m	line:193	struct:_DWORD_VAL::<anonymous>
+b15	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	256;"	m	line:256	struct:_QWORD_VAL::<anonymous>
+b16	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	194;"	m	line:194	struct:_DWORD_VAL::<anonymous>
+b16	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	257;"	m	line:257	struct:_QWORD_VAL::<anonymous>
+b17	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	195;"	m	line:195	struct:_DWORD_VAL::<anonymous>
+b17	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	258;"	m	line:258	struct:_QWORD_VAL::<anonymous>
+b18	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	196;"	m	line:196	struct:_DWORD_VAL::<anonymous>
+b18	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	259;"	m	line:259	struct:_QWORD_VAL::<anonymous>
+b19	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	197;"	m	line:197	struct:_DWORD_VAL::<anonymous>
+b19	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	260;"	m	line:260	struct:_QWORD_VAL::<anonymous>
+b2	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	115;"	m	line:115	struct:_BYTE_VAL::<anonymous>
+b2	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	137;"	m	line:137	struct:_WORD_VAL::<anonymous>
+b2	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	180;"	m	line:180	struct:_DWORD_VAL::<anonymous>
+b2	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	243;"	m	line:243	struct:_QWORD_VAL::<anonymous>
+b20	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	198;"	m	line:198	struct:_DWORD_VAL::<anonymous>
+b20	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	261;"	m	line:261	struct:_QWORD_VAL::<anonymous>
+b21	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	199;"	m	line:199	struct:_DWORD_VAL::<anonymous>
+b21	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	262;"	m	line:262	struct:_QWORD_VAL::<anonymous>
+b22	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	200;"	m	line:200	struct:_DWORD_VAL::<anonymous>
+b22	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	263;"	m	line:263	struct:_QWORD_VAL::<anonymous>
+b23	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	201;"	m	line:201	struct:_DWORD_VAL::<anonymous>
+b23	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	264;"	m	line:264	struct:_QWORD_VAL::<anonymous>
+b24	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	202;"	m	line:202	struct:_DWORD_VAL::<anonymous>
+b24	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	265;"	m	line:265	struct:_QWORD_VAL::<anonymous>
+b25	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	203;"	m	line:203	struct:_DWORD_VAL::<anonymous>
+b25	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	266;"	m	line:266	struct:_QWORD_VAL::<anonymous>
+b26	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	204;"	m	line:204	struct:_DWORD_VAL::<anonymous>
+b26	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	267;"	m	line:267	struct:_QWORD_VAL::<anonymous>
+b27	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	205;"	m	line:205	struct:_DWORD_VAL::<anonymous>
+b27	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	268;"	m	line:268	struct:_QWORD_VAL::<anonymous>
+b28	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	206;"	m	line:206	struct:_DWORD_VAL::<anonymous>
+b28	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	269;"	m	line:269	struct:_QWORD_VAL::<anonymous>
+b29	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	207;"	m	line:207	struct:_DWORD_VAL::<anonymous>
+b29	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	270;"	m	line:270	struct:_QWORD_VAL::<anonymous>
+b3	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	116;"	m	line:116	struct:_BYTE_VAL::<anonymous>
+b3	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	138;"	m	line:138	struct:_WORD_VAL::<anonymous>
+b3	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	181;"	m	line:181	struct:_DWORD_VAL::<anonymous>
+b3	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	244;"	m	line:244	struct:_QWORD_VAL::<anonymous>
+b30	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	208;"	m	line:208	struct:_DWORD_VAL::<anonymous>
+b30	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	271;"	m	line:271	struct:_QWORD_VAL::<anonymous>
+b31	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	209;"	m	line:209	struct:_DWORD_VAL::<anonymous>
+b31	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	272;"	m	line:272	struct:_QWORD_VAL::<anonymous>
+b32	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	273;"	m	line:273	struct:_QWORD_VAL::<anonymous>
+b33	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	274;"	m	line:274	struct:_QWORD_VAL::<anonymous>
+b34	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	275;"	m	line:275	struct:_QWORD_VAL::<anonymous>
+b35	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	276;"	m	line:276	struct:_QWORD_VAL::<anonymous>
+b36	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	277;"	m	line:277	struct:_QWORD_VAL::<anonymous>
+b37	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	278;"	m	line:278	struct:_QWORD_VAL::<anonymous>
+b38	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	279;"	m	line:279	struct:_QWORD_VAL::<anonymous>
+b39	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	280;"	m	line:280	struct:_QWORD_VAL::<anonymous>
+b4	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	117;"	m	line:117	struct:_BYTE_VAL::<anonymous>
+b4	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	139;"	m	line:139	struct:_WORD_VAL::<anonymous>
+b4	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	182;"	m	line:182	struct:_DWORD_VAL::<anonymous>
+b4	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	245;"	m	line:245	struct:_QWORD_VAL::<anonymous>
+b40	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	281;"	m	line:281	struct:_QWORD_VAL::<anonymous>
+b41	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	282;"	m	line:282	struct:_QWORD_VAL::<anonymous>
+b42	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	283;"	m	line:283	struct:_QWORD_VAL::<anonymous>
+b43	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	284;"	m	line:284	struct:_QWORD_VAL::<anonymous>
+b44	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	285;"	m	line:285	struct:_QWORD_VAL::<anonymous>
+b45	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	286;"	m	line:286	struct:_QWORD_VAL::<anonymous>
+b46	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	287;"	m	line:287	struct:_QWORD_VAL::<anonymous>
+b47	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	288;"	m	line:288	struct:_QWORD_VAL::<anonymous>
+b48	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	289;"	m	line:289	struct:_QWORD_VAL::<anonymous>
+b49	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	290;"	m	line:290	struct:_QWORD_VAL::<anonymous>
+b5	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	118;"	m	line:118	struct:_BYTE_VAL::<anonymous>
+b5	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	140;"	m	line:140	struct:_WORD_VAL::<anonymous>
+b5	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	183;"	m	line:183	struct:_DWORD_VAL::<anonymous>
+b5	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	246;"	m	line:246	struct:_QWORD_VAL::<anonymous>
+b50	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	291;"	m	line:291	struct:_QWORD_VAL::<anonymous>
+b51	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	292;"	m	line:292	struct:_QWORD_VAL::<anonymous>
+b52	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	293;"	m	line:293	struct:_QWORD_VAL::<anonymous>
+b53	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	294;"	m	line:294	struct:_QWORD_VAL::<anonymous>
+b54	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	295;"	m	line:295	struct:_QWORD_VAL::<anonymous>
+b55	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	296;"	m	line:296	struct:_QWORD_VAL::<anonymous>
+b56	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	297;"	m	line:297	struct:_QWORD_VAL::<anonymous>
+b57	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	298;"	m	line:298	struct:_QWORD_VAL::<anonymous>
+b58	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	299;"	m	line:299	struct:_QWORD_VAL::<anonymous>
+b59	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	300;"	m	line:300	struct:_QWORD_VAL::<anonymous>
+b6	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	119;"	m	line:119	struct:_BYTE_VAL::<anonymous>
+b6	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	141;"	m	line:141	struct:_WORD_VAL::<anonymous>
+b6	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	184;"	m	line:184	struct:_DWORD_VAL::<anonymous>
+b6	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	247;"	m	line:247	struct:_QWORD_VAL::<anonymous>
+b60	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	301;"	m	line:301	struct:_QWORD_VAL::<anonymous>
+b61	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	302;"	m	line:302	struct:_QWORD_VAL::<anonymous>
+b62	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	303;"	m	line:303	struct:_QWORD_VAL::<anonymous>
+b63	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	304;"	m	line:304	struct:_QWORD_VAL::<anonymous>
+b7	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	120;"	m	line:120	struct:_BYTE_VAL::<anonymous>
+b7	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	142;"	m	line:142	struct:_WORD_VAL::<anonymous>
+b7	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	185;"	m	line:185	struct:_DWORD_VAL::<anonymous>
+b7	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	248;"	m	line:248	struct:_QWORD_VAL::<anonymous>
+b8	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	143;"	m	line:143	struct:_WORD_VAL::<anonymous>
+b8	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	186;"	m	line:186	struct:_DWORD_VAL::<anonymous>
+b8	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	249;"	m	line:249	struct:_QWORD_VAL::<anonymous>
+b9	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	144;"	m	line:144	struct:_WORD_VAL::<anonymous>
+b9	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	187;"	m	line:187	struct:_DWORD_VAL::<anonymous>
+b9	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	250;"	m	line:250	struct:_QWORD_VAL::<anonymous>
+bAltID	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	213;"	m	line:213	struct:_CTRL_TRF_SETUP::<anonymous>
+bAltID_H	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	214;"	m	line:214	struct:_CTRL_TRF_SETUP::<anonymous>
+bAlternateSetting	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	131;"	m	line:131	struct:_USB_INTERFACE_DESCRIPTOR
+bCfgRSD	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	203;"	m	line:203	struct:_CTRL_TRF_SETUP::<anonymous>
+bConfigurationValue	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	107;"	m	line:107	struct:_USB_CONFIGURATION_DESCRIPTOR
+bConfigurationValue	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	202;"	m	line:202	struct:_CTRL_TRF_SETUP::<anonymous>
+bDescriptorType	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	104;"	m	line:104	struct:_USB_CONFIGURATION_DESCRIPTOR
+bDescriptorType	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	129;"	m	line:129	struct:_USB_INTERFACE_DESCRIPTOR
+bDescriptorType	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	150;"	m	line:150	struct:_USB_ENDPOINT_DESCRIPTOR
+bDescriptorType	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	204;"	m	line:204	struct:_USB_OTG_DESCRIPTOR
+bDescriptorType	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	228;"	m	line:228	struct:_USB_STRING_DSC
+bDescriptorType	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	78;"	m	line:78	struct:_USB_DEVICE_DESCRIPTOR
+bDescriptorType	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	182;"	m	line:182	struct:_CTRL_TRF_SETUP::<anonymous>
+bDevADR	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	191;"	m	line:191	struct:_CTRL_TRF_SETUP::<anonymous>
+bDevADRH	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	192;"	m	line:192	struct:_CTRL_TRF_SETUP::<anonymous>
+bDeviceClass	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	249;"	m	line:249	struct:_USB_DEVICE_QUALIFIER_DESCRIPTOR
+bDeviceClass	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	80;"	m	line:80	struct:_USB_DEVICE_DESCRIPTOR
+bDeviceProtocol	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	251;"	m	line:251	struct:_USB_DEVICE_QUALIFIER_DESCRIPTOR
+bDeviceProtocol	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	82;"	m	line:82	struct:_USB_DEVICE_DESCRIPTOR
+bDeviceSubClass	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	250;"	m	line:250	struct:_USB_DEVICE_QUALIFIER_DESCRIPTOR
+bDeviceSubClass	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	81;"	m	line:81	struct:_USB_DEVICE_DESCRIPTOR
+bDscIndex	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	181;"	m	line:181	struct:_CTRL_TRF_SETUP::<anonymous>
+bDscType	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usb_descriptors.c	233;"	m	line:233	file:
+bDscType	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usb_descriptors.c	246;"	m	line:246	file:
+bDscType	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usb_descriptors.c	258;"	m	line:258	file:
+bEPID	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	226;"	m	line:226	struct:_CTRL_TRF_SETUP::<anonymous>
+bEPID_H	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	227;"	m	line:227	struct:_CTRL_TRF_SETUP::<anonymous>
+bEndpointAddress	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	151;"	m	line:151	struct:_USB_ENDPOINT_DESCRIPTOR
+bFeature	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	170;"	m	line:170	struct:_CTRL_TRF_SETUP::<anonymous>
+bHigh	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	237;"	m	line:237	struct:_POINTER::<anonymous>
+bInterfaceClass	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	133;"	m	line:133	struct:_USB_INTERFACE_DESCRIPTOR
+bInterfaceNumber	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	130;"	m	line:130	struct:_USB_INTERFACE_DESCRIPTOR
+bInterfaceProtocol	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	135;"	m	line:135	struct:_USB_INTERFACE_DESCRIPTOR
+bInterfaceSubClass	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	134;"	m	line:134	struct:_USB_INTERFACE_DESCRIPTOR
+bInterval	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	154;"	m	line:154	struct:_USB_ENDPOINT_DESCRIPTOR
+bIntfID	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	215;"	m	line:215	struct:_CTRL_TRF_SETUP::<anonymous>
+bIntfID_H	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	216;"	m	line:216	struct:_CTRL_TRF_SETUP::<anonymous>
+bLength	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	103;"	m	line:103	struct:_USB_CONFIGURATION_DESCRIPTOR
+bLength	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	128;"	m	line:128	struct:_USB_INTERFACE_DESCRIPTOR
+bLength	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	149;"	m	line:149	struct:_USB_ENDPOINT_DESCRIPTOR
+bLength	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	203;"	m	line:203	struct:_USB_OTG_DESCRIPTOR
+bLength	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	227;"	m	line:227	struct:_USB_STRING_DSC
+bLength	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	246;"	m	line:246	struct:_USB_DEVICE_QUALIFIER_DESCRIPTOR
+bLength	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	77;"	m	line:77	struct:_USB_DEVICE_DESCRIPTOR
+bLength	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usb_descriptors.c	245;"	m	line:245	file:
+bLength	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usb_descriptors.c	257;"	m	line:257	file:
+bLow	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	236;"	m	line:236	struct:_POINTER::<anonymous>
+bMaxPacketSize0	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	252;"	m	line:252	struct:_USB_DEVICE_QUALIFIER_DESCRIPTOR
+bMaxPacketSize0	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	83;"	m	line:83	struct:_USB_DEVICE_DESCRIPTOR
+bMaxPower	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	110;"	m	line:110	struct:_USB_CONFIGURATION_DESCRIPTOR
+bNumConfigurations	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	253;"	m	line:253	struct:_USB_DEVICE_QUALIFIER_DESCRIPTOR
+bNumConfigurations	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	90;"	m	line:90	struct:_USB_DEVICE_DESCRIPTOR
+bNumEndpoints	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	132;"	m	line:132	struct:_USB_INTERFACE_DESCRIPTOR
+bNumInterfaces	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	106;"	m	line:106	struct:_USB_CONFIGURATION_DESCRIPTOR
+bRam	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	258;"	m	line:258
+bRam	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	289;"	m	line:289
+bRam	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	244;"	m	line:244	union:_POINTER
+bRequest	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	282;"	m	line:282	struct:SetupPkt
+bRequest	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	151;"	m	line:151	struct:_CTRL_TRF_SETUP::<anonymous>
+bReserved	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	254;"	m	line:254	struct:_USB_DEVICE_QUALIFIER_DESCRIPTOR
+bRom	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	259;"	m	line:259
+bRom	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	249;"	m	line:249	union:_POINTER
+bType	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	247;"	m	line:247	struct:_USB_DEVICE_QUALIFIER_DESCRIPTOR
+bcdDevice	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	86;"	m	line:86	struct:_USB_DEVICE_DESCRIPTOR
+bcdUSB	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	248;"	m	line:248	struct:_USB_DEVICE_QUALIFIER_DESCRIPTOR
+bcdUSB	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	79;"	m	line:79	struct:_USB_DEVICE_DESCRIPTOR
+bitmap	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	142;"	m	line:142
+bits	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	121;"	m	line:121	union:_BYTE_VAL
+bits	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	151;"	m	line:151	union:_WORD_VAL
+bits	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	210;"	m	line:210	union:_DWORD_VAL
+bits	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	305;"	m	line:305	union:_QWORD_VAL
+bits	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	275;"	m	line:275
+bits	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	299;"	m	line:299
+blength	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usb_descriptors.c	232;"	m	line:232	file:
+bmAttributes	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	109;"	m	line:109	struct:_USB_CONFIGURATION_DESCRIPTOR
+bmAttributes	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	152;"	m	line:152	struct:_USB_ENDPOINT_DESCRIPTOR
+bmAttributes	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	205;"	m	line:205	struct:_USB_OTG_DESCRIPTOR
+bmRequestType	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	273;"	m	line:273	union:SetupPkt::<anonymous>
+bmRequestType	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	150;"	m	line:150	struct:_CTRL_TRF_SETUP::<anonymous>
+busy	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	274;"	m	line:274
+busy	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	298;"	m	line:298
+byte	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	132;"	m	line:132	union:_WORD_VAL
+byte	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	170;"	m	line:170	union:_DWORD_VAL
+byteToRead	C:\Microchip Solutions\Microchip\Usb\usb_device.c	1466;"	l	line:1466
+byteToSend	C:\Microchip Solutions\Microchip\Usb\usb_device.c	1383;"	l	line:1383
+c	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usart.c	192;"	l	line:192
+configDescriptor1	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usb_descriptors.c	188;"	v	line:188
+controlTransferState	C:\Microchip Solutions\Microchip\Usb\usb_device.c	61;"	v	line:61
+counter	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.c	61;"	v	line:61
+cs_sdmmc::LATBbits.LATB3	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	162;"	d	line:162
+cs_sdmmc::LATBbits.LATB3	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	259;"	d	line:259
+cs_sdmmc::LATBbits.LATB3	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	393;"	d	line:393
+cs_temp_sensor::LATBbits.LATB2	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	159;"	d	line:159
+cs_temp_sensor::LATBbits.LATB2	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	256;"	d	line:256
+cs_temp_sensor::LATBbits.LATB2	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	390;"	d	line:390
+ctrl_trf_mem	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	268;"	m	line:268
+current	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	355;"	m	line:355	struct:_vbus_power_data
+d	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	224;"	m	line:224	union:_QWORD_VAL
+delay_count	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\main.c	791;"	l	line:791	file:
+device_dsc	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usb_descriptors.c	169;"	v	line:169
+direction	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	278;"	m	line:278	struct:SetupPkt::<anonymous>::<anonymous>
+direction	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	149;"	m	line:149
+dts	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	147;"	m	line:147
+dword	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	231;"	m	line:231	union:_QWORD_VAL
+ep_num	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	145;"	m	line:145
+field	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	150;"	m	line:150
+flags	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	337;"	m	line:337	struct:_transfer_event_data
+force_dts	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	148;"	m	line:148
+getHex	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usart.h	111;"	p	line:111	signature:(uint8_t *, uint8_t)
+handle	C:\Microchip Solutions\Microchip\Usb\usb_device.c	1590;"	l	line:1590
+handle	C:\Microchip Solutions\Microchip\Usb\usb_device.c	1754;"	l	line:1754
+hex_ascii	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usart.c	218;"	f	line:218	signature:(uint8_t data)
+hex_ascii	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usart.h	125;"	p	line:125	signature:(uint8_t)
+hid_report_in	C:\Microchip Solutions\Microchip\Usb\usb_device.c	112;"	v	line:112
+hid_report_out	C:\Microchip Solutions\Microchip\Usb\usb_device.c	111;"	v	line:111
+high	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	174;"	m	line:174	struct:_DWORD_VAL::<anonymous>
+i	C:\Microchip Solutions\Microchip\Usb\usb_device.c	1042;"	l	line:1042
+i	C:\Microchip Solutions\Microchip\Usb\usb_device.c	1467;"	l	line:1467
+i	C:\Microchip Solutions\Microchip\Usb\usb_device.c	160;"	l	line:160
+i	C:\Microchip Solutions\Microchip\Usb\usb_device.c	254;"	l	line:254
+i	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\temperature.c	322;"	l	line:322
+i	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usart.c	191;"	l	line:191
+iConfiguration	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	108;"	m	line:108	struct:_USB_CONFIGURATION_DESCRIPTOR
+iInterface	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	136;"	m	line:136	struct:_USB_INTERFACE_DESCRIPTOR
+iManufacturer	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	87;"	m	line:87	struct:_USB_DEVICE_DESCRIPTOR
+iProduct	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	88;"	m	line:88	struct:_USB_DEVICE_DESCRIPTOR
+iSerialNumber	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	89;"	m	line:89	struct:_USB_DEVICE_DESCRIPTOR
+idProduct	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	85;"	m	line:85	struct:_USB_DEVICE_DESCRIPTOR
+idVendor	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	84;"	m	line:84	struct:_USB_DEVICE_DESCRIPTOR
+inPipes	C:\Microchip Solutions\Microchip\Usb\usb_device.c	62;"	v	line:62
+includeZero	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	272;"	m	line:272
+index	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.c	265;"	l	line:265
+info	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	277;"	m	line:277
+info	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	301;"	m	line:301
+int16_t	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	104;"	t	line:104
+int32_t	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	105;"	t	line:105
+int64_t	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	106;"	t	line:106
+int8_t	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	103;"	t	line:103
+j	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\temperature.c	323;"	l	line:323
+lastDTS	C:\Microchip Solutions\Microchip\Usb\usb_device.c	773;"	l	line:773
+led_count	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.c	426;"	l	line:426	file:
+led_num	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.h	93;"	m	line:93	struct:DATA_PACKET::<anonymous>
+led_status	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.h	94;"	m	line:94	struct:DATA_PACKET::<anonymous>
+len	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.h	83;"	m	line:83	struct:DATA_PACKET::<anonymous>
+low	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	173;"	m	line:173	struct:_DWORD_VAL::<anonymous>
+mInitAllLEDs::LATA&=0xF0;TRISA&=0xF0;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	356;"	d	line:356
+mInitAllLEDs::LATC&=0xF0;TRISC&=0xF0;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	306;"	d	line:306
+mInitAllLEDs::LATD&=0xF0;TRISD&=0xF0;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	125;"	d	line:125
+mInitAllLEDs::{LATE&=0xFC;TRISE&=0xFC;LATD&=	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	211;"	d	line:211
+mInitAllSwitches::TRISBbits.TRISB4=1;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	234;"	d	line:234
+mInitAllSwitches::TRISBbits.TRISB4=1;TRISBbits.T	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	148;"	d	line:148
+mInitAllSwitches::mInitSwitch2;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	334;"	d	line:334
+mInitAllSwitches::mInitSwitch2;mInitSwitch3;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	381;"	d	line:381
+mInitI2CPins::TRISC|=0x18;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	250;"	d	line:250
+mInitPOT::{AD1PCFGLbits.PCFG5=0;AD1CON2b	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	386;"	d	line:386
+mInitPOT::{TRISAbits.TRISA0=1;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	246;"	d	line:246
+mInitPOT::{TRISAbits.TRISA0=1;ADCON0=0x0	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	155;"	d	line:155
+mInitPOT::{TRISBbits.TRISB4=1;ADCON0=0x2	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	337;"	d	line:337
+mInitSwitch2::	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	329;"	d	line:329
+mInitSwitch2::TRISBbits.TRISB4=1;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	149;"	d	line:149
+mInitSwitch2::TRISBbits.TRISB4=1;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	235;"	d	line:235
+mInitSwitch2::TRISDbits.TRISD6=1;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	379;"	d	line:379
+mInitSwitch3::	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	331;"	d	line:331
+mInitSwitch3::TRISBbits.TRISB4=1;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	236;"	d	line:236
+mInitSwitch3::TRISBbits.TRISB5=1;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	150;"	d	line:150
+mInitSwitch3::TRISDbits.TRISD7=1;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	380;"	d	line:380
+mLED_1::LATAbits.LATA0	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	358;"	d	line:358
+mLED_1::LATCbits.LATC0	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	308;"	d	line:308
+mLED_1::LATDbits.LATD0	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	127;"	d	line:127
+mLED_1::LATEbits.LATE0	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	213;"	d	line:213
+mLED_1_Off::mLED_1=0;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	137;"	d	line:137
+mLED_1_Off::mLED_1=0;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	223;"	d	line:223
+mLED_1_Off::mLED_1=0;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	318;"	d	line:318
+mLED_1_Off::mLED_1=0;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	368;"	d	line:368
+mLED_1_On::mLED_1=1;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	132;"	d	line:132
+mLED_1_On::mLED_1=1;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	218;"	d	line:218
+mLED_1_On::mLED_1=1;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	313;"	d	line:313
+mLED_1_On::mLED_1=1;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	363;"	d	line:363
+mLED_1_Toggle::mLED_1=!mLED_1;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	142;"	d	line:142
+mLED_1_Toggle::mLED_1=!mLED_1;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	228;"	d	line:228
+mLED_1_Toggle::mLED_1=!mLED_1;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	323;"	d	line:323
+mLED_1_Toggle::mLED_1=!mLED_1;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	373;"	d	line:373
+mLED_2::LATAbits.LATA1	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	359;"	d	line:359
+mLED_2::LATCbits.LATC1	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	309;"	d	line:309
+mLED_2::LATDbits.LATD1	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	128;"	d	line:128
+mLED_2::LATEbits.LATE1	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	214;"	d	line:214
+mLED_2_Off::mLED_2=0;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	138;"	d	line:138
+mLED_2_Off::mLED_2=0;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	224;"	d	line:224
+mLED_2_Off::mLED_2=0;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	319;"	d	line:319
+mLED_2_Off::mLED_2=0;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	369;"	d	line:369
+mLED_2_On::mLED_2=1;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	133;"	d	line:133
+mLED_2_On::mLED_2=1;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	219;"	d	line:219
+mLED_2_On::mLED_2=1;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	314;"	d	line:314
+mLED_2_On::mLED_2=1;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	364;"	d	line:364
+mLED_2_Toggle::mLED_2=!mLED_2;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	143;"	d	line:143
+mLED_2_Toggle::mLED_2=!mLED_2;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	229;"	d	line:229
+mLED_2_Toggle::mLED_2=!mLED_2;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	324;"	d	line:324
+mLED_2_Toggle::mLED_2=!mLED_2;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	374;"	d	line:374
+mLED_3::LATAbits.LATA2	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	360;"	d	line:360
+mLED_3::LATCbits.LATC2	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	310;"	d	line:310
+mLED_3::LATDbits.LATD2	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	129;"	d	line:129
+mLED_3::LATDbits.LATD2	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	215;"	d	line:215
+mLED_3_Off::mLED_3=0;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	139;"	d	line:139
+mLED_3_Off::mLED_3=0;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	225;"	d	line:225
+mLED_3_Off::mLED_3=0;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	320;"	d	line:320
+mLED_3_Off::mLED_3=0;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	370;"	d	line:370
+mLED_3_On::mLED_3=1;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	134;"	d	line:134
+mLED_3_On::mLED_3=1;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	220;"	d	line:220
+mLED_3_On::mLED_3=1;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	315;"	d	line:315
+mLED_3_On::mLED_3=1;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	365;"	d	line:365
+mLED_3_Toggle::mLED_3=!mLED_3;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	144;"	d	line:144
+mLED_3_Toggle::mLED_3=!mLED_3;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	230;"	d	line:230
+mLED_3_Toggle::mLED_3=!mLED_3;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	325;"	d	line:325
+mLED_3_Toggle::mLED_3=!mLED_3;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	375;"	d	line:375
+mLED_4::LATAbits.LATA3	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	361;"	d	line:361
+mLED_4::LATCbits.LATC3	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	311;"	d	line:311
+mLED_4::LATDbits.LATD3	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	130;"	d	line:130
+mLED_4::LATDbits.LATD3	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	216;"	d	line:216
+mLED_4_Off::mLED_4=0;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	140;"	d	line:140
+mLED_4_Off::mLED_4=0;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	226;"	d	line:226
+mLED_4_Off::mLED_4=0;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	321;"	d	line:321
+mLED_4_Off::mLED_4=0;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	371;"	d	line:371
+mLED_4_On::mLED_4=1;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	135;"	d	line:135
+mLED_4_On::mLED_4=1;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	221;"	d	line:221
+mLED_4_On::mLED_4=1;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	316;"	d	line:316
+mLED_4_On::mLED_4=1;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	366;"	d	line:366
+mLED_4_Toggle::mLED_4=!mLED_4;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	145;"	d	line:145
+mLED_4_Toggle::mLED_4=!mLED_4;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	231;"	d	line:231
+mLED_4_Toggle::mLED_4=!mLED_4;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	326;"	d	line:326
+mLED_4_Toggle::mLED_4=!mLED_4;	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	376;"	d	line:376
+mLED_Both_Off::{mLED_1_Off;mLED_2_Off;}	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.c	431;"	d	line:431	file:
+mLED_Both_On::{mLED_1_On;mLED_2_On;}	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.c	432;"	d	line:432	file:
+mLED_Only_1_On::{mLED_1_On;mLED_2_Off;}	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.c	433;"	d	line:433	file:
+mLED_Only_2_On::{mLED_1_Off;mLED_2_On;}	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.c	434;"	d	line:434	file:
+main	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\main.c	297;"	f	line:297	signature:(void)
+memcmppgm2ram::(a,b,c)memcmp(a,b,c)	C:\Microchip Solutions\Microchip\Include\Compiler.h	73;"	d	line:73
+memcpypgm2ram::(a,b,c)memcpy(a,b,c)	C:\Microchip Solutions\Microchip\Include\Compiler.h	75;"	d	line:75
+msd_buffer	C:\Microchip Solutions\Microchip\Usb\usb_device.c	124;"	v	line:124
+msd_cbw	C:\Microchip Solutions\Microchip\Usb\usb_device.c	117;"	v	line:117
+msd_csw	C:\Microchip Solutions\Microchip\Usb\usb_device.c	118;"	v	line:118
+old_sw2	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.c	60;"	v	line:60
+old_sw3	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.c	60;"	v	line:60
+outPipes	C:\Microchip Solutions\Microchip\Usb\usb_device.c	63;"	v	line:63
+p	C:\Microchip Solutions\Microchip\Usb\usb_device.c	1025;"	l	line:1025
+p	C:\Microchip Solutions\Microchip\Usb\usb_device.c	1192;"	l	line:1192
+p	C:\Microchip Solutions\Microchip\Usb\usb_device.c	1662;"	l	line:1662
+p	C:\Microchip Solutions\Microchip\Usb\usb_device.c	1697;"	l	line:1697
+p	C:\Microchip Solutions\Microchip\Usb\usb_device.c	919;"	l	line:919
+pBDTEntryEP0OutCurrent	C:\Microchip Solutions\Microchip\Usb\usb_device.c	56;"	v	line:56
+pBDTEntryEP0OutNext	C:\Microchip Solutions\Microchip\Usb\usb_device.c	57;"	v	line:57
+pBDTEntryIn	C:\Microchip Solutions\Microchip\Usb\usb_device.c	59;"	v	line:59
+pBDTEntryOut	C:\Microchip Solutions\Microchip\Usb\usb_device.c	58;"	v	line:58
+pDst	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	291;"	m	line:291
+pDst	C:\Microchip Solutions\Microchip\Usb\usb_device.c	64;"	v	line:64
+pFunc	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	303;"	m	line:303
+pFunc	C:\Microchip Solutions\Microchip\Usb\usb_device.c	1512;"	p	line:1512	file:
+pFunc	C:\Microchip Solutions\Microchip\Usb\usb_device.c	935;"	p	line:935	file:
+pSrc	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	262;"	m	line:262
+pTemp	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.c	70;"	v	line:70
+pUEP	C:\Microchip Solutions\Microchip\Usb\usb_device.c	1026;"	l	line:1026
+pid	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	339;"	m	line:339	struct:_transfer_event_data
+pll_startup_counter	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\main.c	367;"	l	line:367
+port	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	354;"	m	line:354	struct:_vbus_power_data
+recipient	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	276;"	m	line:276	struct:SetupPkt::<anonymous>::<anonymous>
+report	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	466;"	m	line:466
+requestInfo	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	280;"	m	line:280	struct:SetupPkt
+reserved	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	269;"	m	line:269
+reserved	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	296;"	m	line:296
+sd000	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usb_descriptors.c	235;"	v	line:235
+sd001	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usb_descriptors.c	248;"	v	line:248
+sd002	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usb_descriptors.c	260;"	v	line:260
+self_power::1	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	111;"	d	line:111
+self_power::1	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	197;"	d	line:197
+self_power::1	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	292;"	d	line:292
+self_power::1	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	351;"	d	line:351
+self_power::PORTAbits.RA2	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	109;"	d	line:109
+self_power::PORTAbits.RA2	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	195;"	d	line:195
+self_power::PORTAbits.RA2	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	290;"	d	line:290
+setup_cnt	C:\Microchip Solutions\Microchip\Usb\usb_device.c	873;"	l	line:873
+shortPacketStatus	C:\Microchip Solutions\Microchip\Usb\usb_device.c	60;"	v	line:60
+size	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	338;"	m	line:338	struct:_transfer_event_data
+strcatpgm2ram::(a,b)strcat(a,b)	C:\Microchip Solutions\Microchip\Include\Compiler.h	81;"	d	line:81
+strchrpgm::(a,b)strchr(a,b)	C:\Microchip Solutions\Microchip\Include\Compiler.h	80;"	d	line:80
+strcmppgm2ram::(a,b)strcmp(a,b)	C:\Microchip Solutions\Microchip\Include\Compiler.h	74;"	d	line:74
+strcpypgm2ram::(a,b)strcpypgm2ram(a,(farromch	C:\Microchip Solutions\Microchip\Include\Compiler.h	95;"	d	line:95
+string	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usb_descriptors.c	234;"	m	line:234	file:
+string	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usb_descriptors.c	247;"	m	line:247	file:
+string	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usb_descriptors.c	259;"	m	line:259	file:
+strlenpgm::(a)strlen(a)	C:\Microchip Solutions\Microchip\Include\Compiler.h	79;"	d	line:79
+strncpypgm2ram::(a,b,c)strncpy(a,b,c)	C:\Microchip Solutions\Microchip\Include\Compiler.h	77;"	d	line:77
+strstrrampgm::(a,b)strstr(a,b)	C:\Microchip Solutions\Microchip\Include\Compiler.h	78;"	d	line:78
+sw2::PORTAbits.RA3	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	332;"	d	line:332
+sw2::PORTBbits.RB4	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	151;"	d	line:151
+sw2::PORTBbits.RB4	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	237;"	d	line:237
+sw2::PORTDbits.RD6	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	382;"	d	line:382
+sw3::PORTAbits.RA3	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	333;"	d	line:333
+sw3::PORTBbits.RB4	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	238;"	d	line:238
+sw3::PORTBbits.RB5	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	152;"	d	line:152
+sw3::PORTDbits.RD7	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	383;"	d	line:383
+temp	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\temperature.c	321;"	l	line:321
+temp	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\usart.c	220;"	l	line:220
+tempString	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\temperature.c	52;"	v	line:52
+temp_data	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.c	73;"	v	line:73
+temp_mode	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.c	63;"	v	line:63
+temperature	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\temperature.c	51;"	v	line:51
+trf_state	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.c	62;"	v	line:62
+tris_cs_sdmmc::TRISBbits.TRISB3	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	161;"	d	line:161
+tris_cs_sdmmc::TRISBbits.TRISB3	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	258;"	d	line:258
+tris_cs_sdmmc::TRISBbits.TRISB3	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	392;"	d	line:392
+tris_cs_temp_sensor::TRISBbits.TRISB2	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	158;"	d	line:158
+tris_cs_temp_sensor::TRISBbits.TRISB2	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	255;"	d	line:255
+tris_cs_temp_sensor::TRISBbits.TRISB2	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	389;"	d	line:389
+tris_self_power::TRISAbits.TRISA2	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	106;"	d	line:106
+tris_self_power::TRISAbits.TRISA2	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	192;"	d	line:192
+tris_self_power::TRISAbits.TRISA2	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	287;"	d	line:287
+tris_self_power::TRISAbits.TRISA2	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	349;"	d	line:349
+tris_usb_bus_sense::TRISAbits.TRISA1	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	279;"	d	line:279
+tris_usb_bus_sense::TRISAbits.TRISA1	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	98;"	d	line:98
+tris_usb_bus_sense::TRISBbits.TRISB5	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	184;"	d	line:184
+tris_usb_bus_sense::TRISBbits.TRISB5	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	345;"	d	line:345
+tris_usb_oe::TRISCbits.TRISC1	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	120;"	d	line:120
+tris_usb_oe::TRISCbits.TRISC1	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	206;"	d	line:206
+tris_usb_oe::TRISCbits.TRISC1	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	301;"	d	line:301
+tris_usb_rcv::TRISAbits.TRISA4	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	117;"	d	line:117
+tris_usb_rcv::TRISAbits.TRISA4	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	203;"	d	line:203
+tris_usb_rcv::TRISAbits.TRISA4	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	298;"	d	line:298
+tris_usb_suspnd::TRISAbits.TRISA3	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	122;"	d	line:122
+tris_usb_suspnd::TRISAbits.TRISA3	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	208;"	d	line:208
+tris_usb_suspnd::TRISAbits.TRISA3	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	303;"	d	line:303
+tris_usb_vm::TRISCbits.TRISC4	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	119;"	d	line:119
+tris_usb_vm::TRISCbits.TRISC4	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	205;"	d	line:205
+tris_usb_vm::TRISCbits.TRISC4	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	300;"	d	line:300
+tris_usb_vmo::TRISBbits.TRISB2	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	116;"	d	line:116
+tris_usb_vmo::TRISBbits.TRISB2	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	202;"	d	line:202
+tris_usb_vmo::TRISBbits.TRISB2	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	297;"	d	line:297
+tris_usb_vp::TRISCbits.TRISC5	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	118;"	d	line:118
+tris_usb_vp::TRISCbits.TRISC5	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	204;"	d	line:204
+tris_usb_vp::TRISCbits.TRISC5	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	299;"	d	line:299
+tris_usb_vpo::TRISBbits.TRISB3	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	115;"	d	line:115
+tris_usb_vpo::TRISBbits.TRISB3	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	201;"	d	line:201
+tris_usb_vpo::TRISBbits.TRISB3	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\HardwareProfile.h	296;"	d	line:296
+type	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	277;"	m	line:277	struct:SetupPkt::<anonymous>::<anonymous>
+uint16_t	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	100;"	t	line:100
+uint32_t	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	101;"	t	line:101
+uint64_t	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	102;"	t	line:102
+uint8_t	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	99;"	t	line:99
+v	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	127;"	m	line:127	union:_WORD_VAL
+v	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	158;"	m	line:158	union:_DWORD_VAL
+v	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	226;"	m	line:226	union:_QWORD_VAL
+v	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	209;"	m	line:209	union:__BDT
+valid_temp	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.c	72;"	v	line:72
+w	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	157;"	m	line:157	union:_DWORD_VAL
+w	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	225;"	m	line:225	union:_QWORD_VAL
+w	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.c	221;"	l	line:221
+w	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.c	369;"	l	line:369
+wCount	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	278;"	m	line:278
+wCount	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	302;"	m	line:302
+wIndex	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	284;"	m	line:284	struct:SetupPkt
+wIndex	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	153;"	m	line:153	struct:_CTRL_TRF_SETUP::<anonymous>
+wLangID	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	183;"	m	line:183	struct:_CTRL_TRF_SETUP::<anonymous>
+wLength	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	285;"	m	line:285	struct:SetupPkt
+wLength	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	154;"	m	line:154	struct:_CTRL_TRF_SETUP::<anonymous>
+wMaxPacketSize	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	153;"	m	line:153	struct:_USB_ENDPOINT_DESCRIPTOR
+wRam	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	260;"	m	line:260
+wRam	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	290;"	m	line:290
+wRam	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	246;"	m	line:246	union:_POINTER
+wRom	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	261;"	m	line:261
+wRom	C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h	250;"	m	line:250	union:_POINTER
+wTotalLength	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	105;"	m	line:105	struct:_USB_CONFIGURATION_DESCRIPTOR
+wValue	C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h	283;"	m	line:283	struct:SetupPkt
+wValue	C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h	152;"	m	line:152	struct:_CTRL_TRF_SETUP::<anonymous>
+word	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	163;"	m	line:163	union:_DWORD_VAL
+word	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	238;"	m	line:238	union:_QWORD_VAL
+wordUnion	C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h	175;"	m	line:175	union:_DWORD_VAL
+word_data	C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo - Copy\Generic Driver Demo - Firmware\user.h	99;"	m	line:99	struct:DATA_PACKET::<anonymous>
+zero_pkt	C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h	146;"	m	line:146
