@@ -24,11 +24,11 @@ class DeviceDescriptor(object):
 		return None
 
 class PlugUSBDevice(object):
-	VENDOR_ID = 0x04D8
-	PRODUCT_ID = 0x000C
+	VENDOR_ID = 0x04D8	#Microchip Vendor ID
+	PRODUCT_ID = 0x000C	#FS USB Product ID
 	INTERFACE_ID = 0
-	BULK_IN_EP = 0x81
-	BULK_OUT_EP = 0x01
+	BULK_IN_EP = 0x81	#Host in address
+	BULK_OUT_EP = 0x01	#Host out address
 	
 	def __init__(self):
 		self.device_descriptor = DeviceDescriptor(PlugUSBDevice.VENDOR_ID, 
@@ -40,34 +40,19 @@ class PlugUSBDevice(object):
 	def open(self):
 		self.device = self.device_descriptor.get_device()
 		self.handle = self.device.open()
-		#if sys.platform == 'darwin':
+		#if sys.platform == 'darwin': 		#<-- Windows not auto setting config either
 		self.handle.setConfiguration(1)
 		self.handle.claimInterface(self.device_descriptor.interface_id)
 		
 	def close(self):
 		self.handle.releaseInterface()
-		
-	def usbConnection(self):
-		print "usb"
 
 	def acquireDataLog(self):
-		#send 0x36 command
+		#send 0x36 command <-- refer to user.c Microchip firmware for commands 
 		self.handle.bulkWrite(PlugUSBDevice.BULK_OUT_EP, [0x36], 1000)
+		#receive block of data, max rx byte buffer is 64, 1000 ms timeout
 		self.readLoggedTempData = self.handle.bulkRead(PlugUSBDevice.BULK_IN_EP, 64, 1000)
 		return self.readLoggedTempData
-		
-	def updateLED(self):
-		OFF = 0
-		AON = 1
-		BON = 2
-		BOTH = 3
-		
-		status = OFF
-		
-		#if (a == 1 and b == 1):
-		#	status = BOTH
-		
-		ledState = self.handle.bulkWrite(PlugUSBDevice.BULK_OUT_EP, [0x32, status], 1000)
 		
 	def enumTry(self):
 		busses = usb.busses()
@@ -109,7 +94,6 @@ class PlugUSBDevice(object):
 					return True
 				except:
 					return False
-					#print "Nope"
 		
 class UsbGui(tk.Tk):
 	pud = PlugUSBDevice()
@@ -120,6 +104,7 @@ class UsbGui(tk.Tk):
 	tc = 0
 	D4Toggle = False
 	D3Toggle = False
+	
 	def __init__(self):
 		tk.Tk.__init__(self)
 		self.geometry("625x450")
@@ -150,8 +135,6 @@ class UsbGui(tk.Tk):
 		self.dataLoggingRadioButton = tk.Radiobutton(dataModeFrame, text="Data Logging", variable=self.dataModeRB, value=1)
 		self.acquireDataButton = tk.Button(dataModeFrame, text="Acquire Data", state=tk.DISABLED, command=self.getDataFromDev, width=20) #self.pud.acquireDataLog
 		
-		#ledD3 = tk.Label(toggleLedFrame, text=" ", bg='green', width=4)
-		#ledD4 = tk.Label(toggleLedFrame, text=" ", bg='green', width=4)
 		self.ledD3 = tk.Canvas(toggleLedFrame, bg='forestgreen', width = 20, height=10)
 		self.ledD4 = tk.Canvas(toggleLedFrame, bg='forestgreen', width = 20, height=10)
 		self.ledD3DescLabel = tk.Label(toggleLedFrame, text="LED D3", state='disabled', relief='raised')
@@ -231,9 +214,9 @@ class UsbGui(tk.Tk):
 			self.ledD3.config(bg = 'forestgreen')
 			self.D3Toggle = False
 			if self.D4Toggle == False:
-				self.pud.handle.bulkWrite(self.pud.BULK_OUT_EP, [0x31, 0x00], 1000)
+				self.pud.handle.bulkWrite(self.pud.BULK_OUT_EP, [0x31, 0x00], 1000)	# both off
 			else:
-				self.pud.handle.bulkWrite(self.pud.BULK_OUT_EP, [0x31, 0x01], 1000)
+				self.pud.handle.bulkWrite(self.pud.BULK_OUT_EP, [0x31, 0x01], 1000)	# 4 on, 3 off
 		
 	def LED4Clicked(self, event):
 		if self.D4Toggle == False:
@@ -242,14 +225,14 @@ class UsbGui(tk.Tk):
 			if self.D3Toggle == True:
 				self.pud.handle.bulkWrite(self.pud.BULK_OUT_EP, [0x31, 0x03], 1000)	# both on
 			else:
-				self.pud.handle.bulkWrite(self.pud.BULK_OUT_EP, [0x31, 0x01], 1000) # 4 on, 3 off
+				self.pud.handle.bulkWrite(self.pud.BULK_OUT_EP, [0x31, 0x01], 1000) 	# 4 on, 3 off
 		else:
 			self.ledD4.config(bg = 'forestgreen')
 			self.D4Toggle = False
 			if self.D3Toggle == False:
-				self.pud.handle.bulkWrite(self.pud.BULK_OUT_EP, [0x31, 0x00], 1000) #both off
+				self.pud.handle.bulkWrite(self.pud.BULK_OUT_EP, [0x31, 0x00], 1000) 	#both off
 			else:
-				self.pud.handle.bulkWrite(self.pud.BULK_OUT_EP, [0x31, 0x02], 1000) #3 on, 4 off
+				self.pud.handle.bulkWrite(self.pud.BULK_OUT_EP, [0x31, 0x02], 1000) 	#3 on, 4 off
 		
 	def toggleUSBConnection(self):
 		if self.USBCONNECTION == False:
@@ -278,8 +261,6 @@ class UsbGui(tk.Tk):
 			self.ledD4DescLabel.unbind("<Button-1>")
 			self.USBCONNECTION = False
 			
-		
-		
 	def drawGages(self):
 		self.xScale = [10, 24, 40, 55, 70, 85, 100, 115, 130, 145, 160, 175, 190, 205]
 		self.tData = [28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28]
