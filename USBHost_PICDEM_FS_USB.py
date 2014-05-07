@@ -205,6 +205,7 @@ class UsbGui(tk.Tk):
 	def LED3Clicked(self, event):
 		if self.D3Toggle == False:
 			self.ledD3.config(bg = 'green')
+			self.ledD3DescLabel.config(relief='sunken')
 			self.D3Toggle = True
 			if self.D4Toggle == True:
 				self.pud.handle.bulkWrite(self.pud.BULK_OUT_EP, [0x31, 0x03], 1000) #both on
@@ -212,6 +213,7 @@ class UsbGui(tk.Tk):
 				self.pud.handle.bulkWrite(self.pud.BULK_OUT_EP, [0x31, 0x02], 1000) # 3 on, 4 off
 		else:
 			self.ledD3.config(bg = 'forestgreen')
+			self.ledD3DescLabel.config(relief='raised')
 			self.D3Toggle = False
 			if self.D4Toggle == False:
 				self.pud.handle.bulkWrite(self.pud.BULK_OUT_EP, [0x31, 0x00], 1000)	# both off
@@ -221,6 +223,7 @@ class UsbGui(tk.Tk):
 	def LED4Clicked(self, event):
 		if self.D4Toggle == False:
 			self.ledD4.config(bg = 'green')
+			self.ledD4DescLabel.config(relief='sunken')
 			self.D4Toggle = True
 			if self.D3Toggle == True:
 				self.pud.handle.bulkWrite(self.pud.BULK_OUT_EP, [0x31, 0x03], 1000)	# both on
@@ -228,6 +231,7 @@ class UsbGui(tk.Tk):
 				self.pud.handle.bulkWrite(self.pud.BULK_OUT_EP, [0x31, 0x01], 1000) 	# 4 on, 3 off
 		else:
 			self.ledD4.config(bg = 'forestgreen')
+			self.ledD4DescLabel.config(relief='raised')
 			self.D4Toggle = False
 			if self.D3Toggle == False:
 				self.pud.handle.bulkWrite(self.pud.BULK_OUT_EP, [0x31, 0x00], 1000) 	#both off
