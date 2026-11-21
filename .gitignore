@@ -1,0 +1,14 @@
+
+# Build output / caches (added in cleanup)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+*.egg-info/
+Objects/
+*.o
+*.d
+.DS_Store
+Thumbs.db
+desktop.ini
